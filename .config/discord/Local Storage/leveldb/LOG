@@ -1,3 +1,5 @@
-2023/12/12-22:23:53.737 5779 Reusing MANIFEST /home/kofta/.config/discord/Local Storage/leveldb/MANIFEST-000001
-2023/12/12-22:23:53.738 5779 Recovering log #22
-2023/12/12-22:23:53.738 5779 Reusing old log /home/kofta/.config/discord/Local Storage/leveldb/000022.log 
+2023/12/13-20:42:00.053 d43 Reusing MANIFEST /home/kofta/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/12/13-20:42:00.054 d43 Recovering log #22
+2023/12/13-20:42:00.080 d43 Level-0 table #25: started
+2023/12/13-20:42:00.101 d43 Level-0 table #25: 2720471 bytes OK
+2023/12/13-20:42:00.105 d43 Delete type=0 #22

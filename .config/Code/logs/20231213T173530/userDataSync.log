@@ -1,0 +1,48 @@
+2023-12-13 17:35:31.925 [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+2023-12-13 17:35:31.925 [info] Auto Sync is enabled.
+2023-12-13 17:35:31.925 [info] Auto Sync: Suspended until auth token is available.
+2023-12-13 17:35:32.233 [info] Deleting non existing profile from backup /home/kofta/.config/Code/User/sync/extensions
+2023-12-13 17:35:32.307 [info] Deleting non existing profile from backup /home/kofta/.config/Code/User/sync/globalState
+2023-12-13 17:35:32.312 [info] Deleting non existing profile from backup /home/kofta/.config/Code/User/sync/keybindings
+2023-12-13 17:35:32.314 [info] Deleting non existing profile from backup /home/kofta/.config/Code/User/sync/profiles
+2023-12-13 17:35:32.315 [info] Deleting non existing profile from backup /home/kofta/.config/Code/User/sync/settings
+2023-12-13 17:35:32.317 [info] Deleting non existing profile from backup /home/kofta/.config/Code/User/sync/snippets
+2023-12-13 17:35:32.320 [info] Deleting non existing profile from backup /home/kofta/.config/Code/User/sync/tasks
+2023-12-13 17:35:34.865 [info] Auto Sync: Triggered by Interval
+2023-12-13 17:35:34.866 [info] Sync started.
+2023-12-13 17:35:35.542 [info] Settings: Last sync resource does not exist locally.
+2023-12-13 17:35:35.666 [info] Settings: No changes found during synchronizing settings.
+2023-12-13 17:35:35.668 [info] Keybindings: Last sync resource does not exist locally.
+2023-12-13 17:35:35.847 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-12-13 17:35:35.849 [info] Snippets: Last sync resource does not exist locally.
+2023-12-13 17:35:35.952 [info] Snippets: No changes found during synchronizing snippets.
+2023-12-13 17:35:35.954 [info] Tasks: Last sync resource does not exist locally.
+2023-12-13 17:35:36.154 [info] Tasks: No changes found during synchronizing tasks.
+2023-12-13 17:35:36.156 [info] GlobalState: Last sync resource does not exist locally.
+2023-12-13 17:35:36.585 [info] GlobalState: No changes found during synchronizing ui state.
+2023-12-13 17:35:36.588 [info] Extensions: Last sync resource does not exist locally.
+2023-12-13 17:35:36.849 [info] Extensions: No changes found during synchronizing extensions.
+2023-12-13 17:35:36.850 [info] Profiles: Last sync resource does not exist locally.
+2023-12-13 17:35:37.003 [info] Profiles: No changes found during synchronizing profiles.
+2023-12-13 17:35:37.005 [info] Sync done. Took 2143ms
+2023-12-13 17:35:50.279 [info] Auto Sync: Triggered by Activity
+2023-12-13 17:35:50.279 [info] Sync started.
+2023-12-13 17:35:50.502 [info] Settings: No changes found during synchronizing settings.
+2023-12-13 17:35:50.512 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-12-13 17:35:50.516 [info] Snippets: No changes found during synchronizing snippets.
+2023-12-13 17:35:50.519 [info] Tasks: No changes found during synchronizing tasks.
+2023-12-13 17:35:51.913 [info] GlobalState: Updated remote ui state. Updated: workbench.statusbar.hidden.
+2023-12-13 17:35:51.918 [info] GlobalState: Updated last synchronized ui state
+2023-12-13 17:35:51.969 [info] Extensions: No changes found during synchronizing extensions.
+2023-12-13 17:35:51.972 [info] Profiles: No changes found during synchronizing profiles.
+2023-12-13 17:35:51.973 [info] Sync done. Took 1695ms
+2023-12-13 17:36:08.188 [info] Auto Sync: Triggered by Activity
+2023-12-13 17:36:08.188 [info] Sync started.
+2023-12-13 17:36:08.311 [info] Settings: No changes found during synchronizing settings.
+2023-12-13 17:36:08.315 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-12-13 17:36:08.319 [info] Snippets: No changes found during synchronizing snippets.
+2023-12-13 17:36:08.322 [info] Tasks: No changes found during synchronizing tasks.
+2023-12-13 17:36:08.328 [info] GlobalState: No changes found during synchronizing ui state.
+2023-12-13 17:36:08.431 [info] Extensions: No changes found during synchronizing extensions.
+2023-12-13 17:36:08.434 [info] Profiles: No changes found during synchronizing profiles.
+2023-12-13 17:36:08.436 [info] Sync done. Took 249ms

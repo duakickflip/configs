@@ -8,10 +8,10 @@ count=0
 count=0
 
 [Session: saved at previous logout]
-clientId1=10dbd17074000170247394400000008090002
+clientId1=10dbd17074000170248603000000008050002
 count=1
 program1=firefox
-restartCommand1=/usr/lib/firefox/firefox,--sm-client-id,10dbd17074000170247394400000008090002
+restartCommand1=/usr/lib/firefox/firefox,--sm-client-id,10dbd17074000170248603000000008050002
 restartStyleHint1=0
 userId1=kofta
 

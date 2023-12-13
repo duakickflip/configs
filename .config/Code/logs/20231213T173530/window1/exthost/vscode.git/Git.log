@@ -1,0 +1,34 @@
+2023-12-13 17:35:34.668 [info] Log level: Info
+2023-12-13 17:35:34.668 [info] Validating found git in: "git"
+2023-12-13 17:35:34.668 [info] Using git "2.43.0" from "git"
+2023-12-13 17:35:34.668 [info] > git rev-parse --show-toplevel [10ms]
+2023-12-13 17:35:34.668 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-13 17:35:34.668 [info] > git rev-parse --show-toplevel [4ms]
+2023-12-13 17:35:34.668 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-13 17:35:34.668 [info] > git rev-parse --show-toplevel [93ms]
+2023-12-13 17:35:34.668 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-13 17:35:34.751 [info] > git rev-parse --show-toplevel [69ms]
+2023-12-13 17:35:34.751 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-13 17:35:34.843 [info] > git rev-parse --show-toplevel [53ms]
+2023-12-13 17:35:34.844 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-13 17:35:52.901 [info] Log level: Info
+2023-12-13 17:35:52.901 [info] Validating found git in: "git"
+2023-12-13 17:35:52.901 [info] Using git "2.43.0" from "git"
+2023-12-13 17:35:52.901 [info] > git rev-parse --show-toplevel [22ms]
+2023-12-13 17:35:52.923 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2023-12-13 17:35:52.938 [info] Open repository: /home/kofta/configs
+2023-12-13 17:35:52.965 [info] > git rev-parse --show-toplevel [3ms]
+2023-12-13 17:35:52.966 [info] > git config --get commit.template [16ms]
+2023-12-13 17:35:52.988 [info] > git rev-parse --show-toplevel [14ms]
+2023-12-13 17:35:52.990 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2023-12-13 17:35:53.033 [info] > git status -z -uall [31ms]
+2023-12-13 17:35:53.112 [info] > git config --get commit.template [4ms]
+2023-12-13 17:35:53.123 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2023-12-13 17:35:53.447 [info] > git status -z -uall [316ms]
+2023-12-13 17:35:53.530 [info] > git check-ignore -v -z --stdin [6ms]
+2023-12-13 17:36:05.212 [info] > git config --get commit.template [1ms]
+2023-12-13 17:36:05.225 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2023-12-13 17:36:05.290 [info] > git status -z -uall [50ms]
+2023-12-13 17:36:15.160 [info] > git config --get commit.template [16ms]
+2023-12-13 17:36:15.161 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2023-12-13 17:36:15.231 [info] > git status -z -uall [51ms]

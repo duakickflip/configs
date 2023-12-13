@@ -3,7 +3,8 @@
     "profileAssociations": {
         "workspaces": {
             "file:///home/kofta/dev/rust-learning": "__default__profile__",
-            "file:///home/kofta/dev/learning": "__default__profile__"
+            "file:///home/kofta/dev/learning": "__default__profile__",
+            "file:///home/kofta/configs": "__default__profile__"
         },
         "emptyWindows": {}
     },
@@ -14,7 +15,7 @@
         "workspaces": [],
         "folders": [
             {
-                "folderUri": "file:///home/kofta/dev/learning"
+                "folderUri": "file:///home/kofta/configs"
             }
         ],
         "emptyWindows": []
@@ -57,10 +58,22 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor"
+                                    "label": "&&Reopen Closed Editor",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/kofta/configs",
+                                        "path": "/home/kofta/configs",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/configs"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -176,6 +189,13 @@
                         "label": "Share",
                         "submenu": {
                             "items": [
+                                {
+                                    "id": "github.copyVscodeDevLinkFile",
+                                    "label": "Copy vscode.dev Link"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
                                 {
                                     "id": "workbench.profiles.actions.exportProfile",
                                     "label": "Export Profile (Default)..."
@@ -704,13 +724,6 @@
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
-                                    "id": "workbench.action.splitEditorInGroup",
-                                    "label": "Split in &&Group"
-                                },
-                                {
-                                    "id": "vscode.menubar.separator"
-                                },
-                                {
                                     "id": "workbench.action.moveEditorToNewWindow",
                                     "label": "&&Move Editor into New Window"
                                 },
@@ -787,10 +800,6 @@
                         "label": "E&&xtensions"
                     },
                     {
-                        "id": "workbench.view.extension.test",
-                        "label": "T&&esting"
-                    },
-                    {
                         "id": "vscode.menubar.separator"
                     },
                     {
@@ -814,7 +823,8 @@
                     },
                     {
                         "id": "editor.action.toggleWordWrap",
-                        "label": "&&Word Wrap"
+                        "label": "&&Word Wrap",
+                        "enabled": false
                     }
                 ]
             },
@@ -822,7 +832,8 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back"
+                        "label": "&&Back",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -831,7 +842,8 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location"
+                        "label": "&&Last Edit Location",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1495,11 +1507,6 @@
                 "isNative": false,
                 "userSettingsLabel": "ctrl+k ctrl+\\"
             },
-            "workbench.action.splitEditorInGroup": {
-                "label": "Ctrl+K Ctrl+Shift+\\",
-                "isNative": false,
-                "userSettingsLabel": "ctrl+k ctrl+shift+\\"
-            },
             "workbench.action.toggleEditorGroupLayout": {
                 "label": "Shift+Alt+0",
                 "userSettingsLabel": "shift+alt+0"
@@ -1746,12 +1753,12 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/kofta/dev/learning",
-            "backupPath": "/home/kofta/.config/Code/Backups/05d77bc6ee3d039fd7fcc097c590c5d8",
+            "folder": "file:///home/kofta/configs",
+            "backupPath": "/home/kofta/.config/Code/Backups/08be0a8d631623fecdbb0389d69bf765",
             "uiState": {
                 "mode": 0,
-                "x": 4,
-                "y": 66,
+                "x": 16,
+                "y": 72,
                 "width": 1272,
                 "height": 1002
             }

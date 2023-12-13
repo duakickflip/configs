@@ -1,0 +1,27 @@
+00:00:00.395643 VirtualBox GUI VM Selector Window 7.0.12 r159484 linux.amd64 (Oct 17 2023 12:57:12) release log
+00:00:00.395646 Log opened 2023-12-13T15:34:32.601658000Z
+00:00:00.395648 Build Type: release
+00:00:00.395650 OS Product: Linux
+00:00:00.395652 OS Release: 6.6.6-arch1-1
+00:00:00.395654 OS Version: #1 SMP PREEMPT_DYNAMIC Mon, 11 Dec 2023 11:48:23 +0000
+00:00:00.395676 DMI Product Name: 82EY
+00:00:00.395684 DMI Product Version: IdeaPad Gaming 3 15ARH05
+00:00:00.395689 Firmware type: UEFI
+00:00:00.395856 Secure Boot: Disabled
+00:00:00.395900 Host RAM: 7306MB (7.1GB) total, 2175MB (2.1GB) available
+00:00:00.395903 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.395905 Process ID: 27973
+00:00:00.395906 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.395940 Qt version: 5.15.11
+00:00:00.396894 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.400460 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.400482 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:00.897098 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 0x32 x 1920x1048
+00:02:59.361511 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:02:59.562395 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:03:03.115869 ERROR [COM]: aRC=NS_ERROR_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:26:33.802823 GUI: UIMediumEnumerator: Medium with key={{686598cb-3364-4df9-8110-612d4cd0cb6b}} created
+00:26:33.935131 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:26:35.941854 ERROR [COM]: aRC=NS_ERROR_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:27:01.439156 GUI: UICommon: Handling aboutToQuit request..
+00:27:02.216793 GUI: UICommon: aboutToQuit request handled!

@@ -28,13 +28,35 @@ _k_friendly_name=Custom Shortcuts Service
 {d03619b6-9b3c-48cc-9d9c-a2aadb485550}=none,none,Search
 
 [kmix]
-_k_friendly_name=Audio Volume
+_k_friendly_name=KMix
+decrease-volume-Capture@HD-Audio Generic=none,,Decrease volume of Capture on HD-Audio Generic
+decrease-volume-Headphone@HD-Audio Generic=none,,Decrease volume of Headphone on HD-Audio Generic
+decrease-volume-Internal Mic Boost@HD-Audio Generic=none,,Decrease volume of Internal Mic Boost on HD-Audio Generic
+decrease-volume-Master@HD-Audio Generic=none,,Decrease volume of Master on HD-Audio Generic
+decrease-volume-Mic Boost@HD-Audio Generic=none,,Decrease volume of Mic Boost on HD-Audio Generic
+decrease-volume-Speaker@HD-Audio Generic=none,,Decrease volume of Speaker on HD-Audio Generic
 decrease_microphone_volume=Microphone Volume Down,Microphone Volume Down,Decrease Microphone Volume
 decrease_volume=Volume Down,Volume Down,Decrease Volume
+increase-volume-Capture@HD-Audio Generic=none,,Increase volume of Capture on HD-Audio Generic
+increase-volume-Headphone@HD-Audio Generic=none,,Increase volume of Headphone on HD-Audio Generic
+increase-volume-Internal Mic Boost@HD-Audio Generic=none,,Increase volume of Internal Mic Boost on HD-Audio Generic
+increase-volume-Master@HD-Audio Generic=none,,Increase volume of Master on HD-Audio Generic
+increase-volume-Mic Boost@HD-Audio Generic=none,,Increase volume of Mic Boost on HD-Audio Generic
+increase-volume-Speaker@HD-Audio Generic=none,,Increase volume of Speaker on HD-Audio Generic
 increase_microphone_volume=Microphone Volume Up,Microphone Volume Up,Increase Microphone Volume
 increase_volume=Volume Up,Volume Up,Increase Volume
 mic_mute=Microphone Mute\tMeta+Volume Mute,Microphone Mute\tMeta+Volume Mute,Mute Microphone
 mute=Volume Mute,Volume Mute,Mute
+toggle-mute-Capture@HD-Audio Generic=none,,Mute Capture on HD-Audio Generic
+toggle-mute-Headphone@HD-Audio Generic=none,,Mute Headphone on HD-Audio Generic
+toggle-mute-IEC958 2@HDA NVidia=none,,Mute IEC958 2 on HDA NVidia
+toggle-mute-IEC958 3@HDA NVidia=none,,Mute IEC958 3 on HDA NVidia
+toggle-mute-IEC958 4@HDA NVidia=none,,Mute IEC958 4 on HDA NVidia
+toggle-mute-IEC958@HDA NVidia=none,,Mute IEC958 on HDA NVidia
+toggle-mute-Internal Mic Boost@HD-Audio Generic=none,,Mute Internal Mic Boost on HD-Audio Generic
+toggle-mute-Master@HD-Audio Generic=none,,Mute Master on HD-Audio Generic
+toggle-mute-Mic Boost@HD-Audio Generic=none,,Mute Mic Boost on HD-Audio Generic
+toggle-mute-Speaker@HD-Audio Generic=none,,Mute Speaker on HD-Audio Generic
 
 [konversation]
 _k_friendly_name=Konversation
@@ -261,11 +283,11 @@ show-on-mouse-pos=none,Meta+V,Show Items at Mouse Position
 
 [mediacontrol]
 _k_friendly_name=Media Controller
-mediavolumedown=none,,Media volume down
-mediavolumeup=none,,Media volume up
+mediavolumedown=none,none,Media volume down
+mediavolumeup=none,none,Media volume up
 nextmedia=Media Next,Media Next,Media playback next
 pausemedia=Media Pause,Media Pause,Pause media playback
-playmedia=none,,Play media playback
+playmedia=none,none,Play media playback
 playpausemedia=Media Play,Media Play,Play/Pause media playback
 previousmedia=Media Previous,Media Previous,Media playback previous
 stopmedia=Media Stop,Media Stop,Stop media playback

@@ -1,0 +1,18 @@
+2023-12-13 20:05:08.939 [info] Log level: Info
+2023-12-13 20:05:08.939 [info] Validating found git in: "git"
+2023-12-13 20:05:08.939 [info] Using git "2.43.0" from "git"
+2023-12-13 20:05:08.939 [info] > git rev-parse --show-toplevel [3ms]
+2023-12-13 20:05:08.939 [info] > git rev-parse --git-dir --git-common-dir [45ms]
+2023-12-13 20:05:08.939 [info] Open repository: /home/kofta/configs
+2023-12-13 20:05:08.980 [info] > git rev-parse --show-toplevel [24ms]
+2023-12-13 20:05:08.981 [info] > git config --get commit.template [33ms]
+2023-12-13 20:05:09.013 [info] > git rev-parse --show-toplevel [14ms]
+2023-12-13 20:05:09.017 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2023-12-13 20:05:09.052 [info] > git status -z -uall [25ms]
+2023-12-13 20:05:09.071 [info] > git config --get commit.template [1ms]
+2023-12-13 20:05:09.079 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-12-13 20:05:09.110 [info] > git status -z -uall [21ms]
+2023-12-13 20:05:09.514 [info] > git check-ignore -v -z --stdin [2ms]
+2023-12-13 20:05:13.017 [info] > git config --get commit.template [8ms]
+2023-12-13 20:05:13.017 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-12-13 20:05:13.045 [info] > git status -z -uall [19ms]

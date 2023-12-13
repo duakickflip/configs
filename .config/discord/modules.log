@@ -1583,3 +1583,19 @@
 2023-12-12T19:25:21.790Z [Modules] Finished module downloads. [success: 3] [failure: 0]
 2023-12-12T19:25:21.875Z [Modules] Installing discord_rpc@1 from /home/kofta/.config/discord/0.0.38/modules/pending/discord_rpc-1.zip
 2023-12-12T19:25:21.895Z [Modules] Finished module installations. [success: 2] [failure: 0]
+2023-12-13T17:42:00.072Z [Modules] Modules initializing
+2023-12-13T17:42:00.073Z [Modules] Distribution: remote
+2023-12-13T17:42:00.073Z [Modules] Host updates: enabled
+2023-12-13T17:42:00.073Z [Modules] Module updates: enabled
+2023-12-13T17:42:00.074Z [Modules] Module install path: /home/kofta/.config/discord/0.0.38/modules
+2023-12-13T17:42:00.074Z [Modules] Module installed file path: /home/kofta/.config/discord/0.0.38/modules/installed.json
+2023-12-13T17:42:00.074Z [Modules] Module download path: /home/kofta/.config/discord/0.0.38/modules/pending
+2023-12-13T17:42:00.307Z [Modules] No updates to install
+2023-12-13T17:42:00.308Z [Modules] Checking for host updates.
+2023-12-13T17:42:00.768Z [Modules] Host is up to date.
+2023-12-13T17:42:00.768Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-12-13T17:42:00.859Z [Modules] No module updates available.
+2023-12-13T17:42:09.034Z [Modules] Checking for host updates.
+2023-12-13T17:42:09.249Z [Modules] Host is up to date.
+2023-12-13T17:42:09.249Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-12-13T17:42:09.255Z [Modules] No module updates available.

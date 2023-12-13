@@ -1,0 +1,257 @@
+00:00:00.000518 main     VirtualBox XPCOM Server 7.0.12 r159484 linux.amd64 (Oct 17 2023 12:57:12) release log
+00:00:00.000521 main     Log opened 2023-12-13T15:34:32.424938000Z
+00:00:00.000523 main     Build Type: release
+00:00:00.000526 main     OS Product: Linux
+00:00:00.000528 main     OS Release: 6.6.6-arch1-1
+00:00:00.000530 main     OS Version: #1 SMP PREEMPT_DYNAMIC Mon, 11 Dec 2023 11:48:23 +0000
+00:00:00.000561 main     DMI Product Name: 82EY
+00:00:00.000570 main     DMI Product Version: IdeaPad Gaming 3 15ARH05
+00:00:00.000576 main     Firmware type: UEFI
+00:00:00.000899 main     Secure Boot: Disabled
+00:00:00.000931 main     Host RAM: 7306MB (7.1GB) total, 2176MB (2.1GB) available
+00:00:00.000934 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.000936 main     Process ID: 28009
+00:00:00.000938 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.002301 main     IPC socket path: /tmp/.vbox-kofta-ipc/ipcd
+00:00:00.110716 nspr-2   VirtualBox: object creation starts
+00:00:00.111544 nspr-2   Home directory: '/home/kofta/.config/VirtualBox'
+00:00:00.126386 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlan0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.128313 nspr-2   HostDnsMonitor: initializing
+00:00:00.128685 nspr-2   NAT: resolv.conf: nameserver 192.168.71.221
+00:00:00.128697 nspr-2   HostDnsMonitor: updating information
+00:00:00.128707 nspr-2   HostDnsMonitor: old information
+00:00:00.128711 nspr-2     no server entries
+00:00:00.128715 nspr-2     no domain set
+00:00:00.128719 nspr-2     no search string entries
+00:00:00.128723 nspr-2   HostDnsMonitor: new information
+00:00:00.128726 nspr-2     server 1: 192.168.71.221
+00:00:00.128730 nspr-2     no domain set
+00:00:00.128734 nspr-2     no search string entries
+00:00:00.131432 nspr-2   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:00:00.132004 nspr-2   VD: VDInit finished with VINF_SUCCESS
+00:00:00.132254 nspr-2   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={aac6c7cb-a371-4c58-ab51-0616896b2f2c} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.133261 nspr-2   VirtualBox: object created
+00:00:00.597399 nspr-4   Saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.601445 nspr-4   Finished saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml"
+00:00:00.647462 nspr-2   Saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.651316 nspr-2   Finished saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml"
+00:00:00.695239 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={e54f6256-97a7-4947-8a78-10c013ddf4b8} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=false aResultDetail=0
+00:00:01.021951 nspr-3   Saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:01.027391 nspr-3   Finished saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml"
+00:00:03.105265 nspr-4   Saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:03.110625 nspr-4   Finished saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml"
+00:00:54.718065 nspr-3   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={aac6c7cb-a371-4c58-ab51-0616896b2f2c} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:01:05.371939 nspr-3   ERROR [COM]: aRC=NS_ERROR_NOT_IMPLEMENTED (0x80004001) aIID={6f89464f-7773-436a-a4df-592e4e537fa0} aComponent={UnattendedWrap} aText={Failed to open 'a' (VERR_FILE_NOT_FOUND)}, preserve=false aResultDetail=-102
+00:01:05.448633 nspr-3   ERROR [COM]: aRC=NS_ERROR_NOT_IMPLEMENTED (0x80004001) aIID={6f89464f-7773-436a-a4df-592e4e537fa0} aComponent={UnattendedWrap} aText={Failed to open 'as' (VERR_FILE_NOT_FOUND)}, preserve=false aResultDetail=-102
+00:01:05.534083 nspr-3   ERROR [COM]: aRC=NS_ERROR_NOT_IMPLEMENTED (0x80004001) aIID={6f89464f-7773-436a-a4df-592e4e537fa0} aComponent={UnattendedWrap} aText={Failed to open 'asd' (VERR_FILE_NOT_FOUND)}, preserve=false aResultDetail=-102
+00:01:05.667040 nspr-3   ERROR [COM]: aRC=NS_ERROR_NOT_IMPLEMENTED (0x80004001) aIID={6f89464f-7773-436a-a4df-592e4e537fa0} aComponent={UnattendedWrap} aText={Failed to open 'asda' (VERR_FILE_NOT_FOUND)}, preserve=false aResultDetail=-102
+00:01:05.835723 nspr-2   ERROR [COM]: aRC=NS_ERROR_NOT_IMPLEMENTED (0x80004001) aIID={6f89464f-7773-436a-a4df-592e4e537fa0} aComponent={UnattendedWrap} aText={Failed to open 'asd' (VERR_FILE_NOT_FOUND)}, preserve=false aResultDetail=-102
+00:01:06.137274 nspr-2   ERROR [COM]: aRC=NS_ERROR_NOT_IMPLEMENTED (0x80004001) aIID={6f89464f-7773-436a-a4df-592e4e537fa0} aComponent={UnattendedWrap} aText={Failed to open 'as' (VERR_FILE_NOT_FOUND)}, preserve=false aResultDetail=-102
+00:01:06.181493 nspr-2   ERROR [COM]: aRC=NS_ERROR_NOT_IMPLEMENTED (0x80004001) aIID={6f89464f-7773-436a-a4df-592e4e537fa0} aComponent={UnattendedWrap} aText={Failed to open 'a' (VERR_FILE_NOT_FOUND)}, preserve=false aResultDetail=-102
+00:01:06.217369 nspr-3   ERROR [COM]: aRC=NS_ERROR_NOT_IMPLEMENTED (0x80004001) aIID={6f89464f-7773-436a-a4df-592e4e537fa0} aComponent={UnattendedWrap} aText={Failed to open '' (VERR_FILE_NOT_FOUND)}, preserve=false aResultDetail=-102
+00:01:07.277931 nspr-4   ERROR [COM]: aRC=NS_ERROR_NOT_IMPLEMENTED (0x80004001) aIID={6f89464f-7773-436a-a4df-592e4e537fa0} aComponent={UnattendedWrap} aText={Failed to open '/' as ISO FS (VERR_IS_A_DIRECTORY) - Unable to read volume descriptor #0}, preserve=false aResultDetail=-127
+00:01:07.331362 nspr-4   Saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:01:07.335962 nspr-4   Finished saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml"
+00:01:07.340683 nspr-2   Saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:01:07.344730 nspr-2   Finished saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml"
+00:01:07.500019 nspr-4   ERROR [COM]: aRC=NS_ERROR_NOT_IMPLEMENTED (0x80004001) aIID={6f89464f-7773-436a-a4df-592e4e537fa0} aComponent={UnattendedWrap} aText={Failed to open '/d' (VERR_FILE_NOT_FOUND)}, preserve=false aResultDetail=-102
+00:01:07.595662 nspr-4   ERROR [COM]: aRC=NS_ERROR_NOT_IMPLEMENTED (0x80004001) aIID={6f89464f-7773-436a-a4df-592e4e537fa0} aComponent={UnattendedWrap} aText={Failed to open '/de' (VERR_FILE_NOT_FOUND)}, preserve=false aResultDetail=-102
+00:01:07.843849 nspr-3   ERROR [COM]: aRC=NS_ERROR_NOT_IMPLEMENTED (0x80004001) aIID={6f89464f-7773-436a-a4df-592e4e537fa0} aComponent={UnattendedWrap} aText={Failed to open '/dev' as ISO FS (VERR_IS_A_DIRECTORY) - Unable to read volume descriptor #0}, preserve=false aResultDetail=-127
+00:01:07.893691 nspr-3   Saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:01:07.899104 nspr-3   Finished saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml"
+00:01:09.347901 nspr-3   ERROR [COM]: aRC=NS_ERROR_NOT_IMPLEMENTED (0x80004001) aIID={6f89464f-7773-436a-a4df-592e4e537fa0} aComponent={UnattendedWrap} aText={Failed to open '/de' (VERR_FILE_NOT_FOUND)}, preserve=false aResultDetail=-102
+00:01:09.603952 nspr-2   ERROR [COM]: aRC=NS_ERROR_NOT_IMPLEMENTED (0x80004001) aIID={6f89464f-7773-436a-a4df-592e4e537fa0} aComponent={UnattendedWrap} aText={Failed to open '/d' (VERR_FILE_NOT_FOUND)}, preserve=false aResultDetail=-102
+00:01:09.803595 nspr-2   ERROR [COM]: aRC=NS_ERROR_NOT_IMPLEMENTED (0x80004001) aIID={6f89464f-7773-436a-a4df-592e4e537fa0} aComponent={UnattendedWrap} aText={Failed to open '/' as ISO FS (VERR_IS_A_DIRECTORY) - Unable to read volume descriptor #0}, preserve=false aResultDetail=-127
+00:01:09.834014 nspr-2   Saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:01:09.839412 nspr-2   Finished saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml"
+00:01:10.795770 nspr-2   ERROR [COM]: aRC=NS_ERROR_NOT_IMPLEMENTED (0x80004001) aIID={6f89464f-7773-436a-a4df-592e4e537fa0} aComponent={UnattendedWrap} aText={Failed to open '/h' (VERR_FILE_NOT_FOUND)}, preserve=false aResultDetail=-102
+00:01:10.947527 nspr-2   ERROR [COM]: aRC=NS_ERROR_NOT_IMPLEMENTED (0x80004001) aIID={6f89464f-7773-436a-a4df-592e4e537fa0} aComponent={UnattendedWrap} aText={Failed to open '/ho' (VERR_FILE_NOT_FOUND)}, preserve=false aResultDetail=-102
+00:01:11.131897 nspr-2   ERROR [COM]: aRC=NS_ERROR_NOT_IMPLEMENTED (0x80004001) aIID={6f89464f-7773-436a-a4df-592e4e537fa0} aComponent={UnattendedWrap} aText={Failed to open '/hom' (VERR_FILE_NOT_FOUND)}, preserve=false aResultDetail=-102
+00:01:11.251231 nspr-2   ERROR [COM]: aRC=NS_ERROR_NOT_IMPLEMENTED (0x80004001) aIID={6f89464f-7773-436a-a4df-592e4e537fa0} aComponent={UnattendedWrap} aText={Failed to open '/home' as ISO FS (VERR_IS_A_DIRECTORY) - Unable to read volume descriptor #0}, preserve=false aResultDetail=-127
+00:01:11.294690 nspr-2   Saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:01:11.299891 nspr-2   Finished saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml"
+00:01:11.507948 nspr-2   ERROR [COM]: aRC=NS_ERROR_NOT_IMPLEMENTED (0x80004001) aIID={6f89464f-7773-436a-a4df-592e4e537fa0} aComponent={UnattendedWrap} aText={Failed to open '/home.' (VERR_FILE_NOT_FOUND)}, preserve=false aResultDetail=-102
+00:01:12.043998 nspr-4   ERROR [COM]: aRC=NS_ERROR_NOT_IMPLEMENTED (0x80004001) aIID={6f89464f-7773-436a-a4df-592e4e537fa0} aComponent={UnattendedWrap} aText={Failed to open '/home' as ISO FS (VERR_IS_A_DIRECTORY) - Unable to read volume descriptor #0}, preserve=false aResultDetail=-127
+00:01:12.595195 nspr-2   ERROR [COM]: aRC=NS_ERROR_NOT_IMPLEMENTED (0x80004001) aIID={6f89464f-7773-436a-a4df-592e4e537fa0} aComponent={UnattendedWrap} aText={Failed to open '/home/' as ISO FS (VERR_IS_A_DIRECTORY) - Unable to read volume descriptor #0}, preserve=false aResultDetail=-127
+00:01:12.641488 nspr-2   Saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:01:12.646789 nspr-2   Finished saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml"
+00:01:12.651407 nspr-2   Saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:01:12.655434 nspr-2   Finished saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml"
+00:01:13.092038 nspr-4   ERROR [COM]: aRC=NS_ERROR_NOT_IMPLEMENTED (0x80004001) aIID={6f89464f-7773-436a-a4df-592e4e537fa0} aComponent={UnattendedWrap} aText={Failed to open '/home/k' (VERR_FILE_NOT_FOUND)}, preserve=false aResultDetail=-102
+00:01:13.219941 nspr-2   ERROR [COM]: aRC=NS_ERROR_NOT_IMPLEMENTED (0x80004001) aIID={6f89464f-7773-436a-a4df-592e4e537fa0} aComponent={UnattendedWrap} aText={Failed to open '/home/ko' (VERR_FILE_NOT_FOUND)}, preserve=false aResultDetail=-102
+00:01:13.379515 nspr-3   ERROR [COM]: aRC=NS_ERROR_NOT_IMPLEMENTED (0x80004001) aIID={6f89464f-7773-436a-a4df-592e4e537fa0} aComponent={UnattendedWrap} aText={Failed to open '/home/kof' (VERR_FILE_NOT_FOUND)}, preserve=false aResultDetail=-102
+00:01:13.563696 nspr-3   ERROR [COM]: aRC=NS_ERROR_NOT_IMPLEMENTED (0x80004001) aIID={6f89464f-7773-436a-a4df-592e4e537fa0} aComponent={UnattendedWrap} aText={Failed to open '/home/kofr' (VERR_FILE_NOT_FOUND)}, preserve=false aResultDetail=-102
+00:01:14.172121 nspr-3   ERROR [COM]: aRC=NS_ERROR_NOT_IMPLEMENTED (0x80004001) aIID={6f89464f-7773-436a-a4df-592e4e537fa0} aComponent={UnattendedWrap} aText={Failed to open '/home/kofr\' (VERR_FILE_NOT_FOUND)}, preserve=false aResultDetail=-102
+00:01:14.427884 nspr-4   ERROR [COM]: aRC=NS_ERROR_NOT_IMPLEMENTED (0x80004001) aIID={6f89464f-7773-436a-a4df-592e4e537fa0} aComponent={UnattendedWrap} aText={Failed to open '/home/kofr' (VERR_FILE_NOT_FOUND)}, preserve=false aResultDetail=-102
+00:01:14.643929 nspr-4   ERROR [COM]: aRC=NS_ERROR_NOT_IMPLEMENTED (0x80004001) aIID={6f89464f-7773-436a-a4df-592e4e537fa0} aComponent={UnattendedWrap} aText={Failed to open '/home/kof' (VERR_FILE_NOT_FOUND)}, preserve=false aResultDetail=-102
+00:01:14.707228 nspr-4   ERROR [COM]: aRC=NS_ERROR_NOT_IMPLEMENTED (0x80004001) aIID={6f89464f-7773-436a-a4df-592e4e537fa0} aComponent={UnattendedWrap} aText={Failed to open '/home/koft' (VERR_FILE_NOT_FOUND)}, preserve=false aResultDetail=-102
+00:01:14.820039 nspr-3   ERROR [COM]: aRC=NS_ERROR_NOT_IMPLEMENTED (0x80004001) aIID={6f89464f-7773-436a-a4df-592e4e537fa0} aComponent={UnattendedWrap} aText={Failed to open '/home/kofta' as ISO FS (VERR_IS_A_DIRECTORY) - Unable to read volume descriptor #0}, preserve=false aResultDetail=-127
+00:01:14.860662 nspr-3   Saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:01:14.882394 nspr-3   Finished saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml"
+00:01:16.979885 nspr-2   ERROR [COM]: aRC=NS_ERROR_NOT_IMPLEMENTED (0x80004001) aIID={6f89464f-7773-436a-a4df-592e4e537fa0} aComponent={UnattendedWrap} aText={Failed to open '/home/kofta/' as ISO FS (VERR_IS_A_DIRECTORY) - Unable to read volume descriptor #0}, preserve=false aResultDetail=-127
+00:01:17.030564 nspr-2   Saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:01:17.036087 nspr-2   Finished saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml"
+00:01:17.040625 nspr-2   Saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:01:17.044720 nspr-2   Finished saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml"
+00:01:18.443889 nspr-4   ERROR [COM]: aRC=NS_ERROR_NOT_IMPLEMENTED (0x80004001) aIID={6f89464f-7773-436a-a4df-592e4e537fa0} aComponent={UnattendedWrap} aText={Failed to open '/home/kofta/d' (VERR_FILE_NOT_FOUND)}, preserve=false aResultDetail=-102
+00:01:18.531347 nspr-4   ERROR [COM]: aRC=NS_ERROR_NOT_IMPLEMENTED (0x80004001) aIID={6f89464f-7773-436a-a4df-592e4e537fa0} aComponent={UnattendedWrap} aText={Failed to open '/home/kofta/de' (VERR_FILE_NOT_FOUND)}, preserve=false aResultDetail=-102
+00:01:18.772009 nspr-4   ERROR [COM]: aRC=NS_ERROR_NOT_IMPLEMENTED (0x80004001) aIID={6f89464f-7773-436a-a4df-592e4e537fa0} aComponent={UnattendedWrap} aText={Failed to open '/home/kofta/dev' as ISO FS (VERR_IS_A_DIRECTORY) - Unable to read volume descriptor #0}, preserve=false aResultDetail=-127
+00:01:18.820791 nspr-2   Saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:01:18.826216 nspr-2   Finished saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml"
+00:01:23.881935 nspr-4   ERROR [COM]: aRC=NS_ERROR_NOT_IMPLEMENTED (0x80004001) aIID={6f89464f-7773-436a-a4df-592e4e537fa0} aComponent={UnattendedWrap} aText={Failed to open '/home/kofta/dev' as ISO FS (VERR_IS_A_DIRECTORY) - Unable to read volume descriptor #0}, preserve=false aResultDetail=-127
+00:01:43.388089 nspr-4   ERROR [COM]: aRC=NS_ERROR_NOT_IMPLEMENTED (0x80004001) aIID={6f89464f-7773-436a-a4df-592e4e537fa0} aComponent={UnattendedWrap} aText={Failed to open '/home/kofta/dev/' as ISO FS (VERR_IS_A_DIRECTORY) - Unable to read volume descriptor #0}, preserve=false aResultDetail=-127
+00:01:43.442809 nspr-4   Saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:01:43.448191 nspr-4   Finished saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml"
+00:01:43.453023 nspr-4   Saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:01:43.457252 nspr-4   Finished saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml"
+00:01:44.029976 nspr-4   ERROR [COM]: aRC=NS_ERROR_NOT_IMPLEMENTED (0x80004001) aIID={6f89464f-7773-436a-a4df-592e4e537fa0} aComponent={UnattendedWrap} aText={Failed to open '/home/kofta/dev/void-live-x86_64-20230628-base' (VERR_FILE_NOT_FOUND)}, preserve=false aResultDetail=-102
+00:01:45.260167 nspr-2   ERROR [COM]: aRC=NS_ERROR_NOT_IMPLEMENTED (0x80004001) aIID={6f89464f-7773-436a-a4df-592e4e537fa0} aComponent={UnattendedWrap} aText={Failed to open '/home/kofta/dev/void-live-x86_64-20230628-base.' (VERR_FILE_NOT_FOUND)}, preserve=false aResultDetail=-102
+00:01:45.747957 nspr-4   ERROR [COM]: aRC=NS_ERROR_NOT_IMPLEMENTED (0x80004001) aIID={6f89464f-7773-436a-a4df-592e4e537fa0} aComponent={UnattendedWrap} aText={Failed to open '/home/kofta/dev/void-live-x86_64-20230628-base.i' (VERR_FILE_NOT_FOUND)}, preserve=false aResultDetail=-102
+00:01:45.940258 nspr-2   ERROR [COM]: aRC=NS_ERROR_NOT_IMPLEMENTED (0x80004001) aIID={6f89464f-7773-436a-a4df-592e4e537fa0} aComponent={UnattendedWrap} aText={Failed to open '/home/kofta/dev/void-live-x86_64-20230628-base.is' (VERR_FILE_NOT_FOUND)}, preserve=false aResultDetail=-102
+00:01:46.141447 nspr-2   Unattended: RTVfsQueryPathInfo(, '\OS2IMAGE/DISK_0/OS2LDR' (from OS2SE20.SRC),) -> VERR_PATH_NOT_FOUND, fMode=0x0
+00:01:46.194878 nspr-2   Saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:01:46.199460 nspr-2   Finished saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml"
+00:01:48.900482 nspr-3   Unattended: RTVfsQueryPathInfo(, '\OS2IMAGE/DISK_0/OS2LDR' (from OS2SE20.SRC),) -> VERR_PATH_NOT_FOUND, fMode=0x0
+00:02:59.066660 createBase Saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:02:59.070972 createBase Finished saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml"
+00:02:59.084818 nspr-5   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={e54f6256-97a7-4947-8a78-10c013ddf4b8} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:02:59.086223 nspr-2   Saving settings file "/home/kofta/VirtualBox VMs/void/void.vbox" with version "1.19-linux"
+00:02:59.096241 nspr-2   Finished saving settings file "/home/kofta/VirtualBox VMs/void/void.vbox"
+00:02:59.096378 nspr-2   Saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:02:59.100176 nspr-2   Finished saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml"
+00:02:59.104294 nspr-3   Saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:02:59.107971 nspr-3   Finished saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml"
+00:02:59.110904 nspr-5   Saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:02:59.114808 nspr-5   Finished saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml"
+00:02:59.115809 nspr-2   Saving settings file "/home/kofta/VirtualBox VMs/void/void.vbox" with version "1.19-linux"
+00:02:59.119752 nspr-2   Finished saving settings file "/home/kofta/VirtualBox VMs/void/void.vbox"
+00:02:59.161395 nspr-3   Saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:02:59.165789 nspr-3   Finished saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml"
+00:02:59.678568 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={e54f6256-97a7-4947-8a78-10c013ddf4b8} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:02:59.768739 nspr-3   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:02:59.770320 nspr-4   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:02:59.897514 nspr-4   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={e54f6256-97a7-4947-8a78-10c013ddf4b8} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:02:59.899066 nspr-4   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={e54f6256-97a7-4947-8a78-10c013ddf4b8} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:03:02.380385 nspr-4   Launched VM: 1811990592 pid: 28290 (0x6e82) frontend: GUI/Qt name: void
+00:03:02.407713 nspr-3   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:03:02.409332 nspr-3   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:03:02.437123 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={e54f6256-97a7-4947-8a78-10c013ddf4b8} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:03:02.438673 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={e54f6256-97a7-4947-8a78-10c013ddf4b8} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:03:02.881585 Watcher  ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The virtual machine 'void' has terminated unexpectedly during startup with exit code 1 (0x1)}, preserve=false aResultDetail=0
+00:03:02.918931 nspr-2   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:03:02.920565 nspr-4   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:03:02.944838 nspr-4   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={e54f6256-97a7-4947-8a78-10c013ddf4b8} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:03:02.946323 nspr-4   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={e54f6256-97a7-4947-8a78-10c013ddf4b8} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:03:05.566164 nspr-3   Saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:03:05.571367 nspr-3   Finished saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml"
+00:04:05.359132 nspr-4   Saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:04:05.364337 nspr-4   Finished saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml"
+00:04:05.364416 nspr-4   Saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:04:05.368811 nspr-4   Finished saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml"
+00:04:05.372010 DeleteVM Saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:04:05.377755 DeleteVM Finished saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml"
+00:04:05.379878 nspr-2   Saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:04:05.384254 nspr-2   Finished saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml"
+00:04:05.403448 nspr-3   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={7682d5eb-f00e-44f1-8ca2-99d08b1cd607} aComponent={VirtualBoxWrap} aText={Could not find a registered machine with UUID {ab0d55fa-1b28-42ad-b827-201faf938d09}}, preserve=false aResultDetail=0
+00:04:05.419041 nspr-3   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={7682d5eb-f00e-44f1-8ca2-99d08b1cd607} aComponent={VirtualBoxWrap} aText={Could not find a registered machine with UUID {ab0d55fa-1b28-42ad-b827-201faf938d09}}, preserve=false aResultDetail=0
+00:25:02.005975 nspr-4   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={aac6c7cb-a371-4c58-ab51-0616896b2f2c} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:25:31.075698 nspr-3   ERROR [COM]: aRC=NS_ERROR_NOT_IMPLEMENTED (0x80004001) aIID={6f89464f-7773-436a-a4df-592e4e537fa0} aComponent={UnattendedWrap} aText={Failed to open '/' as ISO FS (VERR_IS_A_DIRECTORY) - Unable to read volume descriptor #0}, preserve=false aResultDetail=-127
+00:25:31.140707 nspr-2   Saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:25:31.163193 nspr-2   Finished saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml"
+00:25:31.168451 nspr-5   Saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:25:31.172535 nspr-5   Finished saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml"
+00:25:31.227324 nspr-3   ERROR [COM]: aRC=NS_ERROR_NOT_IMPLEMENTED (0x80004001) aIID={6f89464f-7773-436a-a4df-592e4e537fa0} aComponent={UnattendedWrap} aText={Failed to open '/d' (VERR_FILE_NOT_FOUND)}, preserve=false aResultDetail=-102
+00:25:31.298670 nspr-5   ERROR [COM]: aRC=NS_ERROR_NOT_IMPLEMENTED (0x80004001) aIID={6f89464f-7773-436a-a4df-592e4e537fa0} aComponent={UnattendedWrap} aText={Failed to open '/de' (VERR_FILE_NOT_FOUND)}, preserve=false aResultDetail=-102
+00:25:31.628302 nspr-4   ERROR [COM]: aRC=NS_ERROR_NOT_IMPLEMENTED (0x80004001) aIID={6f89464f-7773-436a-a4df-592e4e537fa0} aComponent={UnattendedWrap} aText={Failed to open '/dev' as ISO FS (VERR_IS_A_DIRECTORY) - Unable to read volume descriptor #0}, preserve=false aResultDetail=-127
+00:25:31.676608 nspr-4   Saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:25:31.682162 nspr-4   Finished saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml"
+00:25:31.851350 nspr-5   ERROR [COM]: aRC=NS_ERROR_NOT_IMPLEMENTED (0x80004001) aIID={6f89464f-7773-436a-a4df-592e4e537fa0} aComponent={UnattendedWrap} aText={Failed to open '/de' (VERR_FILE_NOT_FOUND)}, preserve=false aResultDetail=-102
+00:25:32.153162 nspr-4   ERROR [COM]: aRC=NS_ERROR_NOT_IMPLEMENTED (0x80004001) aIID={6f89464f-7773-436a-a4df-592e4e537fa0} aComponent={UnattendedWrap} aText={Failed to open '/d' (VERR_FILE_NOT_FOUND)}, preserve=false aResultDetail=-102
+00:25:32.308157 nspr-2   ERROR [COM]: aRC=NS_ERROR_NOT_IMPLEMENTED (0x80004001) aIID={6f89464f-7773-436a-a4df-592e4e537fa0} aComponent={UnattendedWrap} aText={Failed to open '/' as ISO FS (VERR_IS_A_DIRECTORY) - Unable to read volume descriptor #0}, preserve=false aResultDetail=-127
+00:25:32.344860 nspr-5   Saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:25:32.349828 nspr-5   Finished saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml"
+00:25:33.324216 nspr-3   ERROR [COM]: aRC=NS_ERROR_NOT_IMPLEMENTED (0x80004001) aIID={6f89464f-7773-436a-a4df-592e4e537fa0} aComponent={UnattendedWrap} aText={Failed to open '/h' (VERR_FILE_NOT_FOUND)}, preserve=false aResultDetail=-102
+00:25:33.467424 nspr-5   ERROR [COM]: aRC=NS_ERROR_NOT_IMPLEMENTED (0x80004001) aIID={6f89464f-7773-436a-a4df-592e4e537fa0} aComponent={UnattendedWrap} aText={Failed to open '/ho' (VERR_FILE_NOT_FOUND)}, preserve=false aResultDetail=-102
+00:25:33.884132 nspr-4   ERROR [COM]: aRC=NS_ERROR_NOT_IMPLEMENTED (0x80004001) aIID={6f89464f-7773-436a-a4df-592e4e537fa0} aComponent={UnattendedWrap} aText={Failed to open '/hom' (VERR_FILE_NOT_FOUND)}, preserve=false aResultDetail=-102
+00:25:45.180180 nspr-3   ERROR [COM]: aRC=NS_ERROR_NOT_IMPLEMENTED (0x80004001) aIID={6f89464f-7773-436a-a4df-592e4e537fa0} aComponent={UnattendedWrap} aText={Failed to open '/home' as ISO FS (VERR_IS_A_DIRECTORY) - Unable to read volume descriptor #0}, preserve=false aResultDetail=-127
+00:25:45.219205 nspr-4   Saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:25:45.224859 nspr-4   Finished saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml"
+00:25:46.660333 nspr-5   ERROR [COM]: aRC=NS_ERROR_NOT_IMPLEMENTED (0x80004001) aIID={6f89464f-7773-436a-a4df-592e4e537fa0} aComponent={UnattendedWrap} aText={Failed to open '/home/' as ISO FS (VERR_IS_A_DIRECTORY) - Unable to read volume descriptor #0}, preserve=false aResultDetail=-127
+00:25:46.698819 nspr-2   Saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:25:46.703806 nspr-2   Finished saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml"
+00:25:46.706846 nspr-2   Saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:25:46.710930 nspr-2   Finished saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml"
+00:25:47.203820 nspr-3   ERROR [COM]: aRC=NS_ERROR_NOT_IMPLEMENTED (0x80004001) aIID={6f89464f-7773-436a-a4df-592e4e537fa0} aComponent={UnattendedWrap} aText={Failed to open '/home/k' (VERR_FILE_NOT_FOUND)}, preserve=false aResultDetail=-102
+00:25:47.315474 nspr-4   ERROR [COM]: aRC=NS_ERROR_NOT_IMPLEMENTED (0x80004001) aIID={6f89464f-7773-436a-a4df-592e4e537fa0} aComponent={UnattendedWrap} aText={Failed to open '/home/ko' (VERR_FILE_NOT_FOUND)}, preserve=false aResultDetail=-102
+00:25:47.603649 nspr-4   ERROR [COM]: aRC=NS_ERROR_NOT_IMPLEMENTED (0x80004001) aIID={6f89464f-7773-436a-a4df-592e4e537fa0} aComponent={UnattendedWrap} aText={Failed to open '/home/kof' (VERR_FILE_NOT_FOUND)}, preserve=false aResultDetail=-102
+00:25:47.780155 nspr-2   ERROR [COM]: aRC=NS_ERROR_NOT_IMPLEMENTED (0x80004001) aIID={6f89464f-7773-436a-a4df-592e4e537fa0} aComponent={UnattendedWrap} aText={Failed to open '/home/koft' (VERR_FILE_NOT_FOUND)}, preserve=false aResultDetail=-102
+00:25:47.907976 nspr-5   ERROR [COM]: aRC=NS_ERROR_NOT_IMPLEMENTED (0x80004001) aIID={6f89464f-7773-436a-a4df-592e4e537fa0} aComponent={UnattendedWrap} aText={Failed to open '/home/kofta' as ISO FS (VERR_IS_A_DIRECTORY) - Unable to read volume descriptor #0}, preserve=false aResultDetail=-127
+00:25:47.957857 nspr-5   Saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:25:47.963291 nspr-5   Finished saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml"
+00:25:49.107860 nspr-5   ERROR [COM]: aRC=NS_ERROR_NOT_IMPLEMENTED (0x80004001) aIID={6f89464f-7773-436a-a4df-592e4e537fa0} aComponent={UnattendedWrap} aText={Failed to open '/home/kofta/' as ISO FS (VERR_IS_A_DIRECTORY) - Unable to read volume descriptor #0}, preserve=false aResultDetail=-127
+00:25:49.155319 nspr-4   Saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:25:49.160547 nspr-4   Finished saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml"
+00:25:49.163755 nspr-4   Saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:25:49.167545 nspr-4   Finished saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml"
+00:25:49.300238 nspr-4   ERROR [COM]: aRC=NS_ERROR_NOT_IMPLEMENTED (0x80004001) aIID={6f89464f-7773-436a-a4df-592e4e537fa0} aComponent={UnattendedWrap} aText={Failed to open '/home/kofta/d' (VERR_FILE_NOT_FOUND)}, preserve=false aResultDetail=-102
+00:25:49.363666 nspr-4   ERROR [COM]: aRC=NS_ERROR_NOT_IMPLEMENTED (0x80004001) aIID={6f89464f-7773-436a-a4df-592e4e537fa0} aComponent={UnattendedWrap} aText={Failed to open '/home/kofta/de' (VERR_FILE_NOT_FOUND)}, preserve=false aResultDetail=-102
+00:25:49.612571 nspr-3   ERROR [COM]: aRC=NS_ERROR_NOT_IMPLEMENTED (0x80004001) aIID={6f89464f-7773-436a-a4df-592e4e537fa0} aComponent={UnattendedWrap} aText={Failed to open '/home/kofta/dev' as ISO FS (VERR_IS_A_DIRECTORY) - Unable to read volume descriptor #0}, preserve=false aResultDetail=-127
+00:25:49.661106 nspr-3   Saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:25:49.674391 nspr-3   Finished saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml"
+00:25:49.924338 nspr-2   ERROR [COM]: aRC=NS_ERROR_NOT_IMPLEMENTED (0x80004001) aIID={6f89464f-7773-436a-a4df-592e4e537fa0} aComponent={UnattendedWrap} aText={Failed to open '/home/kofta/dev/' as ISO FS (VERR_IS_A_DIRECTORY) - Unable to read volume descriptor #0}, preserve=false aResultDetail=-127
+00:25:49.974395 nspr-5   Saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:25:49.979901 nspr-5   Finished saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml"
+00:25:49.983301 nspr-5   Saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:25:49.987273 nspr-5   Finished saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml"
+00:25:50.782311 nspr-2   ERROR [COM]: aRC=NS_ERROR_NOT_IMPLEMENTED (0x80004001) aIID={6f89464f-7773-436a-a4df-592e4e537fa0} aComponent={UnattendedWrap} aText={Failed to open '/home/kofta/dev/artix-base-dinit-20230814-x86_64' (VERR_FILE_NOT_FOUND)}, preserve=false aResultDetail=-102
+00:25:51.940026 nspr-4   ERROR [COM]: aRC=NS_ERROR_NOT_IMPLEMENTED (0x80004001) aIID={6f89464f-7773-436a-a4df-592e4e537fa0} aComponent={UnattendedWrap} aText={Failed to open '/home/kofta/dev/artix-base-dinit-20230814-x86_64.' (VERR_FILE_NOT_FOUND)}, preserve=false aResultDetail=-102
+00:25:52.460014 nspr-2   ERROR [COM]: aRC=NS_ERROR_NOT_IMPLEMENTED (0x80004001) aIID={6f89464f-7773-436a-a4df-592e4e537fa0} aComponent={UnattendedWrap} aText={Failed to open '/home/kofta/dev/artix-base-dinit-20230814-x86_64.i' (VERR_FILE_NOT_FOUND)}, preserve=false aResultDetail=-102
+00:25:52.571645 nspr-5   ERROR [COM]: aRC=NS_ERROR_NOT_IMPLEMENTED (0x80004001) aIID={6f89464f-7773-436a-a4df-592e4e537fa0} aComponent={UnattendedWrap} aText={Failed to open '/home/kofta/dev/artix-base-dinit-20230814-x86_64.is' (VERR_FILE_NOT_FOUND)}, preserve=false aResultDetail=-102
+00:25:52.652562 nspr-4   Unattended: RTVfsQueryPathInfo(, '\OS2IMAGE/DISK_0/OS2LDR' (from OS2SE20.SRC),) -> VERR_PATH_NOT_FOUND, fMode=0x0
+00:25:52.695082 nspr-4   Saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:25:52.716522 nspr-4   Finished saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml"
+00:26:33.573877 createBase Saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:26:33.578910 createBase Finished saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml"
+00:26:33.584990 nspr-4   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={e54f6256-97a7-4947-8a78-10c013ddf4b8} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:26:33.586049 nspr-5   Saving settings file "/home/kofta/VirtualBox VMs/artix/artix.vbox" with version "1.19-linux"
+00:26:33.589853 nspr-5   Finished saving settings file "/home/kofta/VirtualBox VMs/artix/artix.vbox"
+00:26:33.590011 nspr-5   Saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:26:33.593846 nspr-5   Finished saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml"
+00:26:33.597916 nspr-2   Saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:26:33.601585 nspr-2   Finished saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml"
+00:26:33.603667 nspr-4   Saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:26:33.607323 nspr-4   Finished saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml"
+00:26:33.607892 nspr-2   Saving settings file "/home/kofta/VirtualBox VMs/artix/artix.vbox" with version "1.19-linux"
+00:26:33.611721 nspr-2   Finished saving settings file "/home/kofta/VirtualBox VMs/artix/artix.vbox"
+00:26:33.643730 nspr-4   Saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:26:33.647559 nspr-4   Finished saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml"
+00:26:33.990409 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={e54f6256-97a7-4947-8a78-10c013ddf4b8} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:26:34.085714 nspr-3   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:26:34.087450 nspr-5   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:26:34.209544 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={e54f6256-97a7-4947-8a78-10c013ddf4b8} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:26:34.211026 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={e54f6256-97a7-4947-8a78-10c013ddf4b8} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:26:35.203414 nspr-3   Launched VM: 1744850480 pid: 32302 (0x7e2e) frontend: GUI/Qt name: artix
+00:26:35.229811 nspr-5   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:26:35.231206 nspr-5   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:26:35.257491 nspr-5   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={e54f6256-97a7-4947-8a78-10c013ddf4b8} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:26:35.258967 nspr-5   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={e54f6256-97a7-4947-8a78-10c013ddf4b8} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:26:35.704238 Watcher  ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The virtual machine 'artix' has terminated unexpectedly during startup with exit code 1 (0x1)}, preserve=false aResultDetail=0
+00:26:35.757061 nspr-5   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:26:35.758847 nspr-4   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:26:35.788927 nspr-4   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={e54f6256-97a7-4947-8a78-10c013ddf4b8} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:26:35.790426 nspr-4   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={e54f6256-97a7-4947-8a78-10c013ddf4b8} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:26:59.435126 nspr-2   Saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:26:59.440487 nspr-2   Finished saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml"
+00:26:59.440609 nspr-2   Saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:26:59.445359 nspr-2   Finished saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml"
+00:26:59.447802 DeleteVM Saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:26:59.451809 DeleteVM Finished saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml"
+00:26:59.453897 nspr-5   Saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:26:59.458373 nspr-5   Finished saving settings file "/home/kofta/.config/VirtualBox/VirtualBox.xml"
+00:26:59.475732 nspr-4   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={7682d5eb-f00e-44f1-8ca2-99d08b1cd607} aComponent={VirtualBoxWrap} aText={Could not find a registered machine with UUID {87ea4ba0-cf51-4e82-97d1-1c79cb9b0b38}}, preserve=false aResultDetail=0
+00:26:59.488457 nspr-4   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={7682d5eb-f00e-44f1-8ca2-99d08b1cd607} aComponent={VirtualBoxWrap} aText={Could not find a registered machine with UUID {87ea4ba0-cf51-4e82-97d1-1c79cb9b0b38}}, preserve=false aResultDetail=0
+00:27:06.976610 main     VirtualBox: object deletion starts
+00:27:06.976857 main     HostDnsMonitor: shutting down ...
+00:27:06.989680 main     HostDnsMonitor: shut down
+00:27:07.001291 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={7682d5eb-f00e-44f1-8ca2-99d08b1cd607} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:27:07.001438 main     VirtualBox: object deleted

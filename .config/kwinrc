@@ -3,8 +3,8 @@ update_info=kwin.upd:replace-scalein-with-scale,kwin.upd:port-minimizeanimation-
 
 [Desktops]
 Id_1=7bfd238a-0330-421f-8efd-158b1a1421cd
-Id_2=1660127c-2dc8-49a7-9b7e-617ecf225491
-Id_3=1da8a1e4-e342-4b9b-a675-f4c4147ddc74
+Id_2=1db3a5c4-7e0a-4a40-ba92-a8e754030d7d
+Id_3=9f7828a6-6e84-4279-a497-4bf4228c0f31
 Number=3
 Rows=1
 
@@ -37,9 +37,6 @@ magiclampEnabled=true
 slidebackEnabled=true
 wobblywindowsEnabled=true
 
-[TabBox]
-LayoutName=big_icons
-
 [Tiling]
 padding=4
 
@@ -54,8 +51,10 @@ tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"wi
 
 [Windows]
 BorderlessMaximizedWindows=true
+ElectricBorderDelay=0
 RollOverDesktops=true
 
 [org.kde.kdecoration2]
 ButtonsOnLeft=XIA
 ButtonsOnRight=
+theme=__aurorae__svg__Monterey-dark

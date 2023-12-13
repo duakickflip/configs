@@ -1,0 +1,12 @@
+2023-12-13 17:35:35.094 [info] Experiment 'pythonRecommendTensorboardExtcf' is active
+2023-12-13 17:35:35.094 [info] Experiment 'pythonREPLSmartSend' is active
+2023-12-13 17:35:35.094 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2023-12-13 17:35:35.094 [info] Experiment 'pythonTestAdapter' is active
+2023-12-13 17:35:35.094 [info] Default formatter is set to null for workspace /home/kofta/dev/learning
+2023-12-13 17:35:35.094 [info] Test server listening.
+2023-12-13 17:35:35.094 [info] Python interpreter path: /bin/python
+2023-12-13 17:35:35.136 [info] Send text to terminal: echo /usr/bin/zsh
+2023-12-13 17:35:35.798 [info] > conda info --json
+2023-12-13 17:35:36.936 [info] Starting Pylance language server.
+2023-12-13 17:35:38.136 [info] Shell integration is not working for zsh
+2023-12-13 17:35:38.137 [warning] Shell integration is not active, environment activated maybe overriden by the shell.

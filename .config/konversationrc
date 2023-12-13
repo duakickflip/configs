@@ -6,7 +6,7 @@ Name=#konversation
 Password=
 
 [DCC Settings]
-PanelSplitter=AAAA/wAAAAEAAAAC//////////8B/////wEAAAACAA==
+PanelSplitter=AAAA/wAAAAEAAAACAAAAVAAAAOcB/////wEAAAACAA==
 
 [Identity 0]
 AuthType=saslplain

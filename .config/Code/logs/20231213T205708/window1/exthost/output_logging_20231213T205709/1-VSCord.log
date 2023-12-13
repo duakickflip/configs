@@ -1,0 +1,6 @@
+[8:57:10 PM] [ERROR] Encountered following error while trying to login: RPC_COULD_NOT_CONNECT: Could not connect
+    at /home/kofta/.vscode/extensions/leonardssh.vscord-5.1.18/node_modules/.pnpm/@xhayper+discord-rpc@1.0.21/node_modules/@xhayper/discord-rpc/dist/transport/IPC.js:111:20
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+[8:57:10 PM] [INFO] [002] Destroyed Discord RPC client
+[8:57:10 PM] [INFO] Discord Rich Presence for VS Code activated.
+[8:57:10 PM] [INFO] Registered Discord Rich Presence commands
