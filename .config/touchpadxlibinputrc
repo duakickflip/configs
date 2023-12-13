@@ -1,0 +1,7 @@
+[MSFT0001:00 06CB:CE2D Touchpad]
+clickMethodAreas=false
+clickMethodClickfinger=true
+naturalScroll=true
+scrollEdge=false
+scrollTwoFinger=true
+tapToClick=true

@@ -1,0 +1,10 @@
+2023-12-13 09:18:48.736 [info] update#setState idle
+2023-12-13 09:18:54.881 [error] update#isLatestVersion(): failed to check for updates
+2023-12-13 09:18:54.882 [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49876)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2023-12-13 09:19:18.745 [info] update#setState checking for updates
+2023-12-13 09:19:18.750 [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49876)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2023-12-13 09:19:18.750 [info] update#setState idle

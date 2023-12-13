@@ -1,0 +1,293 @@
+2023-12-13 08:24:30.903 [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+2023-12-13 08:24:30.903 [info] Auto Sync is enabled.
+2023-12-13 08:24:30.903 [info] Auto Sync: Suspended until auth token is available.
+2023-12-13 08:24:31.266 [info] Deleting non existing profile from backup /home/kofta/.config/Code/User/sync/extensions
+2023-12-13 08:24:31.280 [info] Deleting non existing profile from backup /home/kofta/.config/Code/User/sync/globalState
+2023-12-13 08:24:31.282 [info] Deleting non existing profile from backup /home/kofta/.config/Code/User/sync/keybindings
+2023-12-13 08:24:31.284 [info] Deleting non existing profile from backup /home/kofta/.config/Code/User/sync/profiles
+2023-12-13 08:24:31.285 [info] Deleting non existing profile from backup /home/kofta/.config/Code/User/sync/settings
+2023-12-13 08:24:31.286 [info] Deleting non existing profile from backup /home/kofta/.config/Code/User/sync/snippets
+2023-12-13 08:24:31.288 [info] Deleting non existing profile from backup /home/kofta/.config/Code/User/sync/tasks
+2023-12-13 08:24:38.247 [info] Auto Sync: Triggered by Interval
+2023-12-13 08:24:38.248 [info] Sync started.
+2023-12-13 08:24:43.095 [info] Settings: Last sync resource does not exist locally.
+2023-12-13 08:24:44.362 [info] Settings: No changes found during synchronizing settings.
+2023-12-13 08:24:44.365 [info] Keybindings: Last sync resource does not exist locally.
+2023-12-13 08:24:44.806 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-12-13 08:24:44.809 [info] Snippets: Last sync resource does not exist locally.
+2023-12-13 08:24:45.255 [info] Snippets: No changes found during synchronizing snippets.
+2023-12-13 08:24:45.256 [info] Tasks: Last sync resource does not exist locally.
+2023-12-13 08:24:45.421 [info] Tasks: No changes found during synchronizing tasks.
+2023-12-13 08:24:45.422 [info] GlobalState: Last sync resource does not exist locally.
+2023-12-13 08:24:52.722 [info] GlobalState: Updated remote ui state. Updated: java.2.lastSessionDate,java.2.sessionCount,javascript.1.lastSessionDate,javascript.1.sessionCount,typescript.1.lastSessionDate,typescript.1.sessionCount,csharp.1.lastSessionDate,csharp.1.sessionCount.
+2023-12-13 08:24:52.729 [info] GlobalState: Updated last synchronized ui state
+2023-12-13 08:24:52.732 [info] Extensions: Last sync resource does not exist locally.
+2023-12-13 08:24:53.064 [info] Extensions: No changes found during synchronizing extensions.
+2023-12-13 08:24:53.065 [info] Profiles: Last sync resource does not exist locally.
+2023-12-13 08:24:53.162 [info] Profiles: No changes found during synchronizing profiles.
+2023-12-13 08:24:53.164 [info] Sync done. Took 14918ms
+2023-12-13 08:27:00.439 [info] Auto Sync: Triggered by Activity
+2023-12-13 08:27:00.439 [info] Sync started.
+2023-12-13 08:27:02.350 [info] Settings: No changes found during synchronizing settings.
+2023-12-13 08:27:02.356 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-12-13 08:27:02.361 [info] Snippets: No changes found during synchronizing snippets.
+2023-12-13 08:27:02.366 [info] Tasks: No changes found during synchronizing tasks.
+2023-12-13 08:27:02.377 [info] GlobalState: No changes found during synchronizing ui state.
+2023-12-13 08:27:02.542 [info] Extensions: No changes found during synchronizing extensions.
+2023-12-13 08:27:02.545 [info] Profiles: No changes found during synchronizing profiles.
+2023-12-13 08:27:02.547 [info] Sync done. Took 2110ms
+2023-12-13 08:35:12.569 [info] Auto Sync: Triggered by Interval
+2023-12-13 08:35:12.569 [info] Sync started.
+2023-12-13 08:35:12.943 [info] Settings: No changes found during synchronizing settings.
+2023-12-13 08:35:12.947 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-12-13 08:35:12.952 [info] Snippets: No changes found during synchronizing snippets.
+2023-12-13 08:35:12.957 [info] Tasks: No changes found during synchronizing tasks.
+2023-12-13 08:35:12.967 [info] GlobalState: No changes found during synchronizing ui state.
+2023-12-13 08:35:13.096 [info] Extensions: No changes found during synchronizing extensions.
+2023-12-13 08:35:13.102 [info] Profiles: No changes found during synchronizing profiles.
+2023-12-13 08:35:13.105 [info] Sync done. Took 536ms
+2023-12-13 08:39:04.370 [info] Auto Sync: Triggered by Activity
+2023-12-13 08:39:04.371 [info] Sync started.
+2023-12-13 08:39:04.875 [info] Settings: No changes found during synchronizing settings.
+2023-12-13 08:39:04.879 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-12-13 08:39:04.883 [info] Snippets: No changes found during synchronizing snippets.
+2023-12-13 08:39:04.887 [info] Tasks: No changes found during synchronizing tasks.
+2023-12-13 08:39:04.893 [info] GlobalState: No changes found during synchronizing ui state.
+2023-12-13 08:39:05.017 [info] Extensions: No changes found during synchronizing extensions.
+2023-12-13 08:39:05.020 [info] Profiles: No changes found during synchronizing profiles.
+2023-12-13 08:39:05.022 [info] Sync done. Took 652ms
+2023-12-13 08:40:58.764 [info] Auto Sync: Triggered by Activity
+2023-12-13 08:40:58.766 [info] Sync started.
+2023-12-13 08:40:58.904 [info] Settings: No changes found during synchronizing settings.
+2023-12-13 08:40:58.910 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-12-13 08:40:58.914 [info] Snippets: No changes found during synchronizing snippets.
+2023-12-13 08:40:58.918 [info] Tasks: No changes found during synchronizing tasks.
+2023-12-13 08:40:58.924 [info] GlobalState: No changes found during synchronizing ui state.
+2023-12-13 08:40:59.061 [info] Extensions: No changes found during synchronizing extensions.
+2023-12-13 08:40:59.066 [info] Profiles: No changes found during synchronizing profiles.
+2023-12-13 08:40:59.068 [info] Sync done. Took 304ms
+2023-12-13 08:41:25.910 [info] Auto Sync: Triggered by Activity
+2023-12-13 08:41:25.910 [info] Sync started.
+2023-12-13 08:41:26.034 [info] Settings: No changes found during synchronizing settings.
+2023-12-13 08:41:26.044 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-12-13 08:41:26.053 [info] Snippets: No changes found during synchronizing snippets.
+2023-12-13 08:41:26.058 [info] Tasks: No changes found during synchronizing tasks.
+2023-12-13 08:41:26.067 [info] GlobalState: No changes found during synchronizing ui state.
+2023-12-13 08:41:26.184 [info] Extensions: No changes found during synchronizing extensions.
+2023-12-13 08:41:26.187 [info] Profiles: No changes found during synchronizing profiles.
+2023-12-13 08:41:26.188 [info] Sync done. Took 279ms
+2023-12-13 08:41:41.750 [info] Auto Sync: Triggered by Activity
+2023-12-13 08:41:41.751 [info] Sync started.
+2023-12-13 08:41:41.903 [info] Settings: No changes found during synchronizing settings.
+2023-12-13 08:41:41.908 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-12-13 08:41:41.912 [info] Snippets: No changes found during synchronizing snippets.
+2023-12-13 08:41:41.916 [info] Tasks: No changes found during synchronizing tasks.
+2023-12-13 08:41:41.924 [info] GlobalState: No changes found during synchronizing ui state.
+2023-12-13 08:41:42.070 [info] Extensions: No changes found during synchronizing extensions.
+2023-12-13 08:41:42.072 [info] Profiles: No changes found during synchronizing profiles.
+2023-12-13 08:41:42.074 [info] Sync done. Took 324ms
+2023-12-13 08:44:13.073 [info] Auto Sync: Triggered by Activity
+2023-12-13 08:44:13.075 [info] Sync started.
+2023-12-13 08:44:13.528 [info] Settings: No changes found during synchronizing settings.
+2023-12-13 08:44:13.533 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-12-13 08:44:13.537 [info] Snippets: No changes found during synchronizing snippets.
+2023-12-13 08:44:13.540 [info] Tasks: No changes found during synchronizing tasks.
+2023-12-13 08:44:13.547 [info] GlobalState: No changes found during synchronizing ui state.
+2023-12-13 08:44:13.685 [info] Extensions: No changes found during synchronizing extensions.
+2023-12-13 08:44:13.688 [info] Profiles: No changes found during synchronizing profiles.
+2023-12-13 08:44:13.691 [info] Sync done. Took 618ms
+2023-12-13 08:47:25.207 [info] Auto Sync: Triggered by Activity
+2023-12-13 08:47:25.229 [info] Sync started.
+2023-12-13 08:47:25.670 [info] Settings: No changes found during synchronizing settings.
+2023-12-13 08:47:25.675 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-12-13 08:47:25.681 [info] Snippets: No changes found during synchronizing snippets.
+2023-12-13 08:47:25.686 [info] Tasks: No changes found during synchronizing tasks.
+2023-12-13 08:47:25.698 [info] GlobalState: No changes found during synchronizing ui state.
+2023-12-13 08:47:25.843 [info] Extensions: No changes found during synchronizing extensions.
+2023-12-13 08:47:25.846 [info] Profiles: No changes found during synchronizing profiles.
+2023-12-13 08:47:25.847 [info] Sync done. Took 645ms
+2023-12-13 08:48:53.701 [info] Auto Sync: Triggered by Activity
+2023-12-13 08:48:53.701 [info] Sync started.
+2023-12-13 08:48:53.832 [info] Settings: No changes found during synchronizing settings.
+2023-12-13 08:48:53.837 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-12-13 08:48:53.842 [info] Snippets: No changes found during synchronizing snippets.
+2023-12-13 08:48:53.847 [info] Tasks: No changes found during synchronizing tasks.
+2023-12-13 08:48:53.857 [info] GlobalState: No changes found during synchronizing ui state.
+2023-12-13 08:48:53.999 [info] Extensions: No changes found during synchronizing extensions.
+2023-12-13 08:48:54.001 [info] Profiles: No changes found during synchronizing profiles.
+2023-12-13 08:48:54.005 [info] Sync done. Took 303ms
+2023-12-13 08:49:37.069 [info] Auto Sync: Triggered by Activity
+2023-12-13 08:49:37.069 [info] Sync started.
+2023-12-13 08:49:37.186 [info] Settings: No changes found during synchronizing settings.
+2023-12-13 08:49:37.191 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-12-13 08:49:37.196 [info] Snippets: No changes found during synchronizing snippets.
+2023-12-13 08:49:37.201 [info] Tasks: No changes found during synchronizing tasks.
+2023-12-13 08:49:37.208 [info] GlobalState: No changes found during synchronizing ui state.
+2023-12-13 08:49:37.314 [info] Extensions: No changes found during synchronizing extensions.
+2023-12-13 08:49:37.315 [info] Profiles: No changes found during synchronizing profiles.
+2023-12-13 08:49:37.318 [info] Sync done. Took 249ms
+2023-12-13 08:50:44.461 [info] Auto Sync: Triggered by Activity
+2023-12-13 08:50:44.462 [info] Sync started.
+2023-12-13 08:50:44.587 [info] Settings: No changes found during synchronizing settings.
+2023-12-13 08:50:44.593 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-12-13 08:50:44.597 [info] Snippets: No changes found during synchronizing snippets.
+2023-12-13 08:50:44.600 [info] Tasks: No changes found during synchronizing tasks.
+2023-12-13 08:50:44.606 [info] GlobalState: No changes found during synchronizing ui state.
+2023-12-13 08:50:44.725 [info] Extensions: No changes found during synchronizing extensions.
+2023-12-13 08:50:44.728 [info] Profiles: No changes found during synchronizing profiles.
+2023-12-13 08:50:44.730 [info] Sync done. Took 269ms
+2023-12-13 08:51:25.158 [info] Auto Sync: Triggered by Activity
+2023-12-13 08:51:25.159 [info] Sync started.
+2023-12-13 08:51:25.283 [info] Settings: No changes found during synchronizing settings.
+2023-12-13 08:51:25.287 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-12-13 08:51:25.292 [info] Snippets: No changes found during synchronizing snippets.
+2023-12-13 08:51:25.296 [info] Tasks: No changes found during synchronizing tasks.
+2023-12-13 08:51:25.305 [info] GlobalState: No changes found during synchronizing ui state.
+2023-12-13 08:51:25.410 [info] Extensions: No changes found during synchronizing extensions.
+2023-12-13 08:51:25.415 [info] Profiles: No changes found during synchronizing profiles.
+2023-12-13 08:51:25.418 [info] Sync done. Took 260ms
+2023-12-13 08:52:56.802 [info] Auto Sync: Triggered by Activity
+2023-12-13 08:52:56.803 [info] Sync started.
+2023-12-13 08:52:57.130 [info] Settings: No changes found during synchronizing settings.
+2023-12-13 08:52:57.137 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-12-13 08:52:57.142 [info] Snippets: No changes found during synchronizing snippets.
+2023-12-13 08:52:57.147 [info] Tasks: No changes found during synchronizing tasks.
+2023-12-13 08:52:57.157 [info] GlobalState: No changes found during synchronizing ui state.
+2023-12-13 08:52:57.312 [info] Extensions: No changes found during synchronizing extensions.
+2023-12-13 08:52:57.320 [info] Profiles: No changes found during synchronizing profiles.
+2023-12-13 08:52:57.322 [info] Sync done. Took 520ms
+2023-12-13 08:56:47.620 [info] Auto Sync: Triggered by Activity
+2023-12-13 08:56:47.622 [info] Sync started.
+2023-12-13 08:56:47.635 [info] Request failed https://vscode-sync.trafficmanager.net/v1/manifest
+2023-12-13 08:56:47.635 [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at f.D (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:127841)
+    at async f.manifest (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:125544)
+    at async r.createSyncTask (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:101424)
+    at async o.I (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:91299)
+    at async o.H (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:90939)
+2023-12-13 08:56:47.636 [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at f.D (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:127841)
+    at async f.manifest (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:125544)
+    at async r.createSyncTask (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:101424)
+    at async o.I (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:91299)
+    at async o.H (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:90939)
+2023-12-13 08:57:18.868 [info] Auto Sync: Triggered by Activity
+2023-12-13 08:57:18.868 [info] Sync started.
+2023-12-13 08:57:18.876 [info] Request failed https://vscode-sync.trafficmanager.net/v1/manifest
+2023-12-13 08:57:18.877 [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at f.D (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:127841)
+    at async f.manifest (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:125544)
+    at async r.createSyncTask (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:101424)
+    at async o.I (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:91299)
+    at async o.H (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:90939)
+2023-12-13 08:57:18.877 [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at f.D (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:127841)
+    at async f.manifest (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:125544)
+    at async r.createSyncTask (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:101424)
+    at async o.I (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:91299)
+    at async o.H (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:90939)
+2023-12-13 08:57:41.224 [info] Auto Sync: Triggered by Activity
+2023-12-13 08:57:41.224 [info] Sync started.
+2023-12-13 08:57:41.229 [info] Request failed https://vscode-sync.trafficmanager.net/v1/manifest
+2023-12-13 08:57:41.229 [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at f.D (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:127841)
+    at async f.manifest (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:125544)
+    at async r.createSyncTask (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:101424)
+    at async o.I (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:91299)
+    at async o.H (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:90939)
+2023-12-13 08:57:41.230 [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at f.D (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:127841)
+    at async f.manifest (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:125544)
+    at async r.createSyncTask (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:101424)
+    at async o.I (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:91299)
+    at async o.H (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:90939)
+2023-12-13 08:58:15.869 [info] Auto Sync: Triggered by Activity
+2023-12-13 08:58:15.869 [info] Sync started.
+2023-12-13 08:58:15.877 [info] Request failed https://vscode-sync.trafficmanager.net/v1/manifest
+2023-12-13 08:58:15.878 [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at f.D (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:127841)
+    at async f.manifest (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:125544)
+    at async r.createSyncTask (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:101424)
+    at async o.I (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:91299)
+    at async o.H (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:90939)
+2023-12-13 08:58:15.878 [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at f.D (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:127841)
+    at async f.manifest (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:125544)
+    at async r.createSyncTask (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:101424)
+    at async o.I (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:91299)
+    at async o.H (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:90939)
+2023-12-13 08:59:04.755 [info] Auto Sync: Triggered by Activity
+2023-12-13 08:59:04.755 [info] Sync started.
+2023-12-13 08:59:04.762 [info] Request failed https://vscode-sync.trafficmanager.net/v1/manifest
+2023-12-13 08:59:04.762 [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at f.D (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:127841)
+    at async f.manifest (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:125544)
+    at async r.createSyncTask (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:101424)
+    at async o.I (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:91299)
+    at async o.H (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:90939)
+2023-12-13 08:59:04.762 [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at f.D (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:127841)
+    at async f.manifest (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:125544)
+    at async r.createSyncTask (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:101424)
+    at async o.I (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:91299)
+    at async o.H (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:90939)
+2023-12-13 09:02:39.184 [info] Auto Sync: Triggered by Activity
+2023-12-13 09:02:39.185 [info] Sync started.
+2023-12-13 09:02:39.191 [info] Request failed https://vscode-sync.trafficmanager.net/v1/manifest
+2023-12-13 09:02:39.191 [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at f.D (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:127841)
+    at async f.manifest (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:125544)
+    at async r.createSyncTask (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:101424)
+    at async o.I (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:91299)
+    at async o.H (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:90939)
+2023-12-13 09:02:39.192 [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at f.D (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:127841)
+    at async f.manifest (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:125544)
+    at async r.createSyncTask (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:101424)
+    at async o.I (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:91299)
+    at async o.H (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:90939)
+2023-12-13 09:07:39.197 [info] Auto Sync: Triggered by Interval
+2023-12-13 09:07:39.197 [info] Sync started.
+2023-12-13 09:07:39.203 [info] Request failed https://vscode-sync.trafficmanager.net/v1/manifest
+2023-12-13 09:07:39.204 [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at f.D (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:127841)
+    at async f.manifest (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:125544)
+    at async r.createSyncTask (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:101424)
+    at async o.I (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:91299)
+    at async o.H (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:90939)
+2023-12-13 09:07:39.204 [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at f.D (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:127841)
+    at async f.manifest (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:125544)
+    at async r.createSyncTask (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:101424)
+    at async o.I (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:91299)
+    at async o.H (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:90939)
+2023-12-13 09:07:53.311 [info] Auto Sync: Triggered by Activity
+2023-12-13 09:07:53.311 [info] Sync started.
+2023-12-13 09:07:53.316 [info] Request failed https://vscode-sync.trafficmanager.net/v1/manifest
+2023-12-13 09:07:53.317 [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at f.D (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:127841)
+    at async f.manifest (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:125544)
+    at async r.createSyncTask (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:101424)
+    at async o.I (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:91299)
+    at async o.H (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:90939)
+2023-12-13 09:07:53.317 [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at f.D (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:127841)
+    at async f.manifest (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:125544)
+    at async r.createSyncTask (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:101424)
+    at async o.I (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:91299)
+    at async o.H (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:90939)
+2023-12-13 09:12:38.607 [info] Auto Sync: Triggered by Activity
+2023-12-13 09:12:38.608 [info] Sync started.
+2023-12-13 09:12:38.614 [info] Request failed https://vscode-sync.trafficmanager.net/v1/manifest
+2023-12-13 09:12:38.614 [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at f.D (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:127841)
+    at async f.manifest (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:125544)
+    at async r.createSyncTask (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:101424)
+    at async o.I (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:91299)
+    at async o.H (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:90939)
+2023-12-13 09:12:38.615 [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at f.D (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:127841)
+    at async f.manifest (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:125544)
+    at async r.createSyncTask (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:101424)
+    at async o.I (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:91299)
+    at async o.H (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:90939)

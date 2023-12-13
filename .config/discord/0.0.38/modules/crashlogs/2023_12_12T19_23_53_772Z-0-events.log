@@ -1,0 +1,13 @@
+2023-12-12T19:23:53.779Z 0: 
+
+----------------------------------------------
+2023-12-12T19:23:53.797Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.38"}, modulepath: /home/kofta/.config/discord/0.0.38/modules
+2023-12-12T19:23:53.813Z 2: ✅ webContents.created web1 ""
+2023-12-12T19:23:53.827Z 3: ✅ window.created win1 "discord"
+2023-12-12T19:23:54.044Z 4: ✅ webContents.did-finish-load web1
+2023-12-12T19:24:47.952Z 5: ✅ webContents.created web2 ""
+2023-12-12T19:24:47.958Z 6: ✅ window.created win2 "Discord"
+2023-12-12T19:24:52.220Z 7: ✅ webContents.did-finish-load web2
+2023-12-12T19:24:52.320Z 8: window.close win1
+2023-12-12T19:24:52.352Z 9: webContents.destroyed web1
+2023-12-12T19:24:52.356Z 10: window.closed win1

@@ -1,0 +1,15 @@
+2023-12-12 17:59:45.612 [info] [Info  - 5:59:45 PM] (14528) Pylance language server 2023.11.10 (pyright 088ebaa5) starting
+2023-12-12 17:59:45.613 [info] [Info  - 5:59:45 PM] (14528) Server root directory: /home/kofta/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist
+2023-12-12 17:59:45.613 [info] [Info  - 5:59:45 PM] (14528) Starting service instance "learning"
+2023-12-12 17:59:45.645 [info] [Info  - 5:59:45 PM] (14528) Setting pythonPath for service "learning": "/bin/python"
+2023-12-12 17:59:45.646 [info] [Info  - 5:59:45 PM] (14528) Setting environmentName for service "learning": "3.11.6 (global)"
+2023-12-12 17:59:45.695 [info] [Info  - 5:59:45 PM] (14528) Assuming Python version 3.11
+2023-12-12 17:59:45.793 [info] [Info  - 5:59:45 PM] (14528) Found 1 source file
+2023-12-12 17:59:54.074 [info] [Info  - 5:59:54 PM] (14528) Setting pythonPath for service "learning": "/bin/python"
+2023-12-12 17:59:54.074 [info] [Info  - 5:59:54 PM] (14528) Setting environmentName for service "learning": "3.11.6 (global)"
+2023-12-12 17:59:54.114 [info] [Info  - 5:59:54 PM] (14528) Assuming Python version 3.11
+2023-12-12 17:59:54.168 [info] [Info  - 5:59:54 PM] (14528) Found 1 source file
+2023-12-12 17:59:54.207 [info] [Info  - 5:59:54 PM] (14528) Setting pythonPath for service "learning": "/bin/python"
+2023-12-12 17:59:54.207 [info] [Info  - 5:59:54 PM] (14528) Setting environmentName for service "learning": "3.11.6 (global)"
+2023-12-12 17:59:54.276 [info] [Info  - 5:59:54 PM] (14528) Assuming Python version 3.11
+2023-12-12 17:59:54.340 [info] [Info  - 5:59:54 PM] (14528) Found 1 source file

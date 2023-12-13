@@ -1,0 +1,25 @@
+[6:03:56 PM] [ERROR] Encountered following error while trying to login: RPC_COULD_NOT_CONNECT: Could not connect
+    at /home/kofta/.vscode/extensions/leonardssh.vscord-5.1.18/node_modules/.pnpm/@xhayper+discord-rpc@1.0.21/node_modules/@xhayper/discord-rpc/dist/transport/IPC.js:111:20
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+[6:03:56 PM] [INFO] [002] Destroyed Discord RPC client
+[6:03:56 PM] [INFO] Discord Rich Presence for VS Code activated.
+[6:03:56 PM] [INFO] Registered Discord Rich Presence commands
+[6:48:56 PM] [INFO] Reconnecting to Discord Gateway...
+[6:48:56 PM] [INFO] [004] Debug: Logging in with client ID "782685898163617802"
+[6:48:56 PM] [INFO] [004] Debug: Login - isConnected false isReady 782685898163617802
+[6:48:56 PM] [INFO] [004] Debug: Login - [object Object]
+[6:48:57 PM] [INFO] Successfully connected to Discord
+[6:48:57 PM] [INFO] [004] Debug: Enabling Discord Rich Presence
+[6:48:57 PM] [INFO] [004] Debug: Logging in with client ID "782685898163617802"
+[6:48:57 PM] [INFO] [004] Debug: Login - isConnected true isReady 782685898163617802
+[6:48:57 PM] [INFO] [004] Debug: Login - [object Object]
+[6:48:57 PM] [INFO] [004] Debug: Client Should be logged in
+[6:48:57 PM] [INFO] [004] Debug: Enable - [object Object]
+[6:48:57 PM] [INFO] [004] Debug: Enabled - isConnected true isReady 782685898163617802
+[6:48:57 PM] [INFO] [004] Debug: Enabling Discord Rich Presence
+[6:48:57 PM] [INFO] [004] Debug: Logging in with client ID "782685898163617802"
+[6:48:57 PM] [INFO] [004] Debug: Login - isConnected true isReady 782685898163617802
+[6:48:57 PM] [INFO] [004] Debug: Login - [object Object]
+[6:48:57 PM] [INFO] [004] Debug: Client Should be logged in
+[6:48:57 PM] [INFO] [004] Debug: Enable - [object Object]
+[6:48:57 PM] [INFO] [004] Debug: Enabled - isConnected true isReady 782685898163617802

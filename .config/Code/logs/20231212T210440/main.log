@@ -1,0 +1,6 @@
+2023-12-12 21:04:41.034 [info] update#setState idle
+2023-12-12 21:15:02.907 [info] update#setState checking for updates
+2023-12-12 21:15:04.333 [error] Error: net::ERR_NETWORK_CHANGED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49876)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2023-12-12 21:15:04.335 [info] update#setState idle

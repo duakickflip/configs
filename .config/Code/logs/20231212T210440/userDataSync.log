@@ -1,0 +1,27 @@
+2023-12-12 21:04:42.165 [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+2023-12-12 21:04:42.165 [info] Auto Sync is enabled.
+2023-12-12 21:04:42.165 [info] Auto Sync: Suspended until auth token is available.
+2023-12-12 21:04:42.461 [info] Deleting non existing profile from backup /home/kofta/.config/Code/User/sync/extensions
+2023-12-12 21:04:42.472 [info] Deleting non existing profile from backup /home/kofta/.config/Code/User/sync/globalState
+2023-12-12 21:04:42.473 [info] Deleting non existing profile from backup /home/kofta/.config/Code/User/sync/keybindings
+2023-12-12 21:04:42.475 [info] Deleting non existing profile from backup /home/kofta/.config/Code/User/sync/profiles
+2023-12-12 21:04:42.476 [info] Deleting non existing profile from backup /home/kofta/.config/Code/User/sync/settings
+2023-12-12 21:04:42.477 [info] Deleting non existing profile from backup /home/kofta/.config/Code/User/sync/snippets
+2023-12-12 21:04:42.529 [info] Deleting non existing profile from backup /home/kofta/.config/Code/User/sync/tasks
+2023-12-12 21:04:44.115 [info] Auto Sync: Triggered by Interval
+2023-12-12 21:04:44.116 [info] Sync started.
+2023-12-12 21:04:45.543 [info] Settings: Last sync resource does not exist locally.
+2023-12-12 21:04:45.986 [info] Settings: No changes found during synchronizing settings.
+2023-12-12 21:04:45.987 [info] Keybindings: Last sync resource does not exist locally.
+2023-12-12 21:04:46.419 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-12-12 21:04:46.421 [info] Snippets: Last sync resource does not exist locally.
+2023-12-12 21:04:46.703 [info] Snippets: No changes found during synchronizing snippets.
+2023-12-12 21:04:46.704 [info] Tasks: Last sync resource does not exist locally.
+2023-12-12 21:04:47.116 [info] Tasks: No changes found during synchronizing tasks.
+2023-12-12 21:04:47.118 [info] GlobalState: Last sync resource does not exist locally.
+2023-12-12 21:04:48.843 [info] GlobalState: No changes found during synchronizing ui state.
+2023-12-12 21:04:48.845 [info] Extensions: Last sync resource does not exist locally.
+2023-12-12 21:04:49.251 [info] Extensions: No changes found during synchronizing extensions.
+2023-12-12 21:04:49.252 [info] Profiles: Last sync resource does not exist locally.
+2023-12-12 21:04:49.542 [info] Profiles: No changes found during synchronizing profiles.
+2023-12-12 21:04:49.545 [info] Sync done. Took 5430ms

@@ -1,0 +1,55 @@
+2023-12-13 08:24:31.231 [info] Extension host with pid 2874 started
+2023-12-13 08:24:31.231 [info] Skipping acquiring lock for /home/kofta/.config/Code/User/workspaceStorage/67c6c51005dcab4fb8d8a59b19aa23ca.
+2023-12-13 08:24:31.420 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-12-13 08:24:31.431 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2023-12-13 08:24:31.560 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+2023-12-13 08:24:32.370 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+2023-12-13 08:24:32.433 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2023-12-13 08:24:32.600 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-12-13 08:24:33.620 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-12-13 08:24:33.649 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-12-13 08:24:33.716 [info] Eager extensions activated
+2023-12-13 08:24:34.556 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-12-13 08:24:34.559 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-12-13 08:24:34.572 [info] ExtensionService#_doActivateExtension LeonardSSH.vscord, startup: false, activationEvent: 'onStartupFinished'
+2023-12-13 08:24:34.590 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl, startup: false, activationEvent: 'onStartupFinished'
+2023-12-13 08:24:34.604 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2023-12-13 08:24:38.198 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-12-13 08:24:44.363 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-12-13 08:24:44.384 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-12-13 08:41:40.697 [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'onLanguage:c'
+2023-12-13 09:00:20.005 [info] ExtensionService#_doActivateExtension ms-vscode.cmake-tools, startup: false, activationEvent: 'onCommand:cmake.quickStart'
+2023-12-13 09:08:52.048 [error] [ms-python.python] provider FAILED
+2023-12-13 09:08:52.066 [error] TypeError: Cannot read properties of undefined (reading 'data')
+    at /home/kofta/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:133067
+    at _0x9ba18e (/home/kofta/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:144828)
+    at ve.provideCompletionItems (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:143:53055)
+2023-12-13 09:18:43.463 [info] Extension host terminating: renderer closed the MessagePort
+2023-12-13 09:18:43.597 [error] TypeError: e.clear is not a function
+    at _.cleanUp (/home/kofta/.vscode/extensions/ms-python.python-2023.22.0/out/client/extension.js:2:2396933)
+    at _.shutdown (/home/kofta/.vscode/extensions/ms-python.python-2023.22.0/out/client/extension.js:2:2396109)
+    at _.stop (/home/kofta/.vscode/extensions/ms-python.python-2023.22.0/out/client/extension.js:2:2395537)
+    at _.stop (/home/kofta/.vscode/extensions/ms-python.python-2023.22.0/out/client/extension.js:2:2561925)
+    at Object.stop (/home/kofta/.vscode/extensions/ms-python.python-2023.22.0/out/client/extension.js:2:52774)
+    at Object.stop (/home/kofta/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:167421)
+    at _0x245439.<computed>._stopClient (/home/kofta/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:110729)
+    at _0x245439.<computed>._createNewRequest (/home/kofta/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:110308)
+2023-12-13 09:18:43.597 [error] TypeError: e.clear is not a function
+    at _.cleanUp (/home/kofta/.vscode/extensions/ms-python.python-2023.22.0/out/client/extension.js:2:2396933)
+    at _.shutdown (/home/kofta/.vscode/extensions/ms-python.python-2023.22.0/out/client/extension.js:2:2396109)
+    at _.stop (/home/kofta/.vscode/extensions/ms-python.python-2023.22.0/out/client/extension.js:2:2395537)
+    at _.stop (/home/kofta/.vscode/extensions/ms-python.python-2023.22.0/out/client/extension.js:2:2561925)
+    at Object.stop (/home/kofta/.vscode/extensions/ms-python.python-2023.22.0/out/client/extension.js:2:52774)
+    at Object.stop (/home/kofta/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:167421)
+    at _0x245439.<computed>._stopClient (/home/kofta/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:110729)
+    at _0x245439.<computed>._createNewRequest (/home/kofta/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:110308)
+2023-12-13 09:18:43.735 [error] [ms-vscode.cpptools] provider FAILED
+2023-12-13 09:18:43.735 [error] Error: Pending response rejected since connection got disposed
+    at Object.dispose (/home/kofta/.vscode/extensions/ms-vscode.cpptools-1.18.5-linux-x64/dist/src/main.js:66327:27)
+    at Object.dispose (/home/kofta/.vscode/extensions/ms-vscode.cpptools-1.18.5-linux-x64/dist/src/main.js:70079:35)
+    at /home/kofta/.vscode/extensions/ms-vscode.cpptools-1.18.5-linux-x64/dist/src/main.js:69494:28
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at Object.deactivate (/home/kofta/.vscode/extensions/ms-vscode.cpptools-1.18.5-linux-x64/dist/src/main.js:97847:5)
+    at async Promise.all (index 16)
+    at f.Y (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:7823)
+2023-12-13 09:18:43.735 [info] Extension host with pid 2874 exiting with code 0

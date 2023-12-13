@@ -1,0 +1,17 @@
+2023-12-12 21:19:32.936 [info] Log level: Info
+2023-12-12 21:19:32.936 [info] Validating found git in: "git"
+2023-12-12 21:19:32.936 [info] Using git "2.43.0" from "git"
+2023-12-12 21:19:32.936 [info] > git rev-parse --show-toplevel [4ms]
+2023-12-12 21:19:32.936 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2023-12-12 21:19:32.936 [info] Open repository: /home/kofta/dev/rust-learning
+2023-12-12 21:19:32.936 [info] > git rev-parse --show-toplevel [5ms]
+2023-12-12 21:19:32.936 [info] > git config --get commit.template [12ms]
+2023-12-12 21:19:32.936 [info] No remotes found in the git config file.
+2023-12-12 21:19:32.936 [info] > git rev-parse --show-toplevel [8ms]
+2023-12-12 21:19:32.938 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [63ms]
+2023-12-12 21:19:33.094 [info] > git status -z -uall [148ms]
+2023-12-12 21:19:33.152 [info] > git config --get commit.template [4ms]
+2023-12-12 21:19:33.169 [info] No remotes found in the git config file.
+2023-12-12 21:19:33.171 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-12-12 21:19:33.205 [info] > git status -z -uall [26ms]
+2023-12-12 21:19:33.459 [info] > git check-ignore -v -z --stdin [2ms]

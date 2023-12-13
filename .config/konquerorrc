@@ -1,0 +1,24 @@
+[$Version]
+update_info=webenginepart.upd:MoveNonPasswordStorableSites
+
+[MainWindow]
+1920x1080 screen: Height=480
+1920x1080 screen: Width=925
+1920x1080 screen: XPosition=0
+1920x1080 screen: YPosition=0
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAAAAA50AAAGRAAAABAAAAAQAAAAIAAAACPwAAAACAAAAAgAAAAMAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAGABlAHgAdAByAGEAVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAAAAAAHgBsAG8AYwBhAHQAaQBvAG4AVABvAG8AbABCAGEAcgEAAAFH/////wAAAAAAAAAAAAAAAgAAAAMAAAAeAGIAbwBvAGsAbQBhAHIAawBUAG8AbwBsAEIAYQByAAAAAAD/////AAAAAAAAAAAAAAAWAGgAdABtAGwAVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAAAAAAGgBzAHAAZQBlAGMAaABUAG8AbwBsAGIAYQByAAAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+eDP-1=eDP-1
+
+[NonPasswordStorableSites]
+Sites=github.com
+
+[SearchBar]
+CompletionMode=5
+CurrentEngine=duckduckgo
+History list=\\0
+Mode=1
+
+[Undo]
+Number of Closed Windows=2

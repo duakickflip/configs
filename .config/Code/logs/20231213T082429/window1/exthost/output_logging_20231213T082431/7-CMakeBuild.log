@@ -1,0 +1,68 @@
+[proc] Executing command: cmake --version
+[proc] Executing command: cmake -E capabilities
+[variant] Loaded new set of variants
+[kit] Detected kits definition version change from undefined to 2. Silently scanning for kits.
+[proc] Executing command: /usr/bin/clang -v
+[proc] Executing command: /usr/bin/clang-16 -v
+[proc] Executing command: /usr/bin/clang-cl -v
+[proc] Executing command: /usr/bin/gcc -v
+[proc] Executing command: /usr/bin/x86_64-linux-gnu-gcc -v
+[proc] Executing command: /usr/bin/x86_64-pc-linux-gnu-gcc -v
+[proc] Executing command: /usr/bin/x86_64-pc-linux-gnu-gcc-13.2.1 -v
+[proc] Executing command: /bin/clang -v
+[proc] Executing command: /bin/clang-16 -v
+[proc] Executing command: /bin/clang-cl -v
+[proc] Executing command: /bin/gcc -v
+[proc] Executing command: /bin/x86_64-linux-gnu-gcc -v
+[proc] Executing command: /bin/x86_64-pc-linux-gnu-gcc -v
+[proc] Executing command: /bin/x86_64-pc-linux-gnu-gcc-13.2.1 -v
+[proc] Executing command: /bin/x86_64-pc-linux-gnu-gcc -v
+[proc] Executing command: /bin/clang -v
+[proc] Executing command: /usr/bin/x86_64-pc-linux-gnu-gcc -v
+[proc] Executing command: /usr/bin/clang -v
+[proc] Executing command: /bin/clang -v
+[proc] Executing command: /bin/clang-16 -v
+[proc] Executing command: /bin/clang-cl -v
+[proc] Executing command: /bin/gcc -v
+[proc] Executing command: /bin/x86_64-linux-gnu-gcc -v
+[proc] Executing command: /bin/x86_64-pc-linux-gnu-gcc -v
+[proc] Executing command: /bin/x86_64-pc-linux-gnu-gcc-13.2.1 -v
+[proc] Executing command: /usr/bin/clang -v
+[proc] Executing command: /usr/bin/clang-16 -v
+[proc] Executing command: /usr/bin/clang-cl -v
+[proc] Executing command: /usr/bin/gcc -v
+[proc] Executing command: /usr/bin/x86_64-linux-gnu-gcc -v
+[proc] Executing command: /usr/bin/x86_64-pc-linux-gnu-gcc -v
+[proc] Executing command: /usr/bin/x86_64-pc-linux-gnu-gcc-13.2.1 -v
+[kit] Found Kit (trusted): Clang 16.0.6 x86_64-pc-linux-gnu
+[kit] Found Kit (trusted): Clang 16.0.6 x86_64-pc-linux-gnu
+[kit] Found Kit (trusted): Clang-cl 16.0.6 x86_64-pc-windows-msvc
+[kit] Found Kit (trusted): GCC 13.2.1 x86_64-pc-linux-gnu
+[kit] Found Kit (trusted): GCC 13.2.1 x86_64-pc-linux-gnu
+[kit] Found Kit (trusted): GCC 13.2.1 x86_64-pc-linux-gnu
+[kit] Found Kit (trusted): GCC 13.2.1 x86_64-pc-linux-gnu
+[kit] Found Kit (trusted): Clang 16.0.6 x86_64-pc-linux-gnu
+[kit] Found Kit (trusted): Clang 16.0.6 x86_64-pc-linux-gnu
+[kit] Found Kit (trusted): Clang-cl 16.0.6 x86_64-pc-windows-msvc
+[kit] Found Kit (trusted): GCC 13.2.1 x86_64-pc-linux-gnu
+[kit] Found Kit (trusted): GCC 13.2.1 x86_64-pc-linux-gnu
+[kit] Found Kit (trusted): GCC 13.2.1 x86_64-pc-linux-gnu
+[kit] Found Kit (trusted): GCC 13.2.1 x86_64-pc-linux-gnu
+[proc] Executing command: /usr/bin/x86_64-pc-linux-gnu-gcc -v
+[proc] Executing command: /usr/bin/clang -v
+[proc] Executing command: /bin/x86_64-pc-linux-gnu-gcc -v
+[proc] Executing command: /bin/clang -v
+[kit] Found Kit (trusted): Clang 16.0.6 x86_64-pc-linux-gnu
+[kit] Found Kit (trusted): Clang 16.0.6 x86_64-pc-linux-gnu
+[kit] Found Kit (trusted): Clang-cl 16.0.6 x86_64-pc-windows-msvc
+[kit] Found Kit (trusted): GCC 13.2.1 x86_64-pc-linux-gnu
+[kit] Found Kit (trusted): GCC 13.2.1 x86_64-pc-linux-gnu
+[kit] Found Kit (trusted): GCC 13.2.1 x86_64-pc-linux-gnu
+[kit] Found Kit (trusted): GCC 13.2.1 x86_64-pc-linux-gnu
+[kit] Found Kit (trusted): Clang 16.0.6 x86_64-pc-linux-gnu
+[kit] Found Kit (trusted): Clang 16.0.6 x86_64-pc-linux-gnu
+[kit] Found Kit (trusted): Clang-cl 16.0.6 x86_64-pc-windows-msvc
+[kit] Found Kit (trusted): GCC 13.2.1 x86_64-pc-linux-gnu
+[kit] Found Kit (trusted): GCC 13.2.1 x86_64-pc-linux-gnu
+[kit] Found Kit (trusted): GCC 13.2.1 x86_64-pc-linux-gnu
+[kit] Found Kit (trusted): GCC 13.2.1 x86_64-pc-linux-gnu

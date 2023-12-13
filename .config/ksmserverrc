@@ -1,0 +1,24 @@
+[$Version]
+update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_value_default_enum
+
+[LegacySession: saved at previous logout]
+count=0
+
+[LegacySession: saved by user]
+count=0
+
+[Session: saved at previous logout]
+clientId1=10dbd17074000170247394400000008090002
+count=1
+program1=firefox
+restartCommand1=/usr/lib/firefox/firefox,--sm-client-id,10dbd17074000170247394400000008090002
+restartStyleHint1=0
+userId1=kofta
+
+[Session: saved by user]
+clientId1=10dbd17074000170232374000000007950002
+count=1
+program1=firefox
+restartCommand1=/usr/lib/firefox/firefox,--sm-client-id,10dbd17074000170232374000000007950002
+restartStyleHint1=0
+userId1=kofta

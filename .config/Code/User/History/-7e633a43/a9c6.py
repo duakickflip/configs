@@ -1,0 +1,1 @@
+with open('main.txt', mode='r', encoding='UTF-8')

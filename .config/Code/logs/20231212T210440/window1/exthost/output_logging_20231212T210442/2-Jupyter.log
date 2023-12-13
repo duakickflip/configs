@@ -1,0 +1,13 @@
+Visual Studio Code (1.85.0, undefined, desktop)
+Jupyter Extension Version: 2023.11.1003402403.
+Python Extension Version: 2023.22.0.
+Pylance Extension Version: 2023.11.10.
+Platform: linux (x64).
+Workspace folder ~/dev/learning, Home = /home/kofta
+21:04:43.033 [info] Start refreshing Kernel Picker (1702404283033)
+21:04:43.044 [info] Using Pylance
+21:04:44.110 [warn] Failed to get activated env vars for /bin/python in 984ms
+21:04:44.124 [info] End refreshing Kernel Picker (1702404283033)
+21:04:44.141 [info] Process Execution: /bin/python -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+21:04:44.239 [info] Process Execution: /bin/python -m pip list
+21:04:44.386 [info] Process Execution: /bin/python -c "import pip;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"

@@ -1,0 +1,25 @@
+2023-12-13 09:19:46.837 [info] Experiment 'pythonRecommendTensorboardExtcf' is active
+2023-12-13 09:19:46.837 [info] Experiment 'pythonREPLSmartSend' is active
+2023-12-13 09:19:46.837 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2023-12-13 09:19:46.837 [info] Experiment 'pythonTestAdapter' is active
+2023-12-13 09:19:46.837 [info] Default formatter is set to null for workspace /home/kofta/dev/learning
+2023-12-13 09:19:46.837 [info] Test server listening.
+2023-12-13 09:19:46.837 [info] Python interpreter path: /bin/python
+2023-12-13 09:19:46.876 [info] Send text to terminal: echo /usr/bin/zsh
+2023-12-13 09:19:47.589 [info] > conda info --json
+2023-12-13 09:19:48.919 [info] Starting Pylance language server.
+2023-12-13 09:19:49.878 [info] Shell integration is not working for zsh
+2023-12-13 09:19:49.879 [warning] Shell integration is not active, environment activated maybe overriden by the shell.
+2023-12-13 09:40:50.311 [info] CreateEnv Trigger - Skipping for /home/kofta/dev/learning/2.py
+2023-12-13 09:40:50.415 [info] Send text to terminal: /bin/python /home/kofta/dev/learning/2.py
+2023-12-13 09:40:50.562 [info] Discover tests for workspace name: learning - uri: /home/kofta/dev/learning/2.py
+2023-12-13 09:41:51.596 [info] Discover tests for workspace name: learning - uri: /home/kofta/dev/learning/3.py
+2023-12-13 09:43:09.595 [info] Discover tests for workspace name: learning - uri: /home/kofta/dev/learning/3.py
+2023-12-13 09:43:23.891 [info] Discover tests for workspace name: learning - uri: /home/kofta/dev/learning/3.py
+2023-12-13 09:44:41.018 [info] Discover tests for workspace name: learning - uri: /home/kofta/dev/learning/3.py
+2023-12-13 09:45:36.851 [info] Discover tests for workspace name: learning - uri: /home/kofta/dev/learning/3.py
+2023-12-13 09:48:37.922 [info] Discover tests for workspace name: learning - uri: /home/kofta/dev/learning/3.py
+2023-12-13 09:49:33.875 [info] Send text to terminal: /bin/python /home/kofta/dev/learning/3.py
+2023-12-13 09:49:34.108 [info] Discover tests for workspace name: learning - uri: /home/kofta/dev/learning/3.py
+2023-12-13 09:51:56.584 [info] Send text to terminal: /bin/python /home/kofta/dev/learning/3.py
+2023-12-13 09:51:56.823 [info] Discover tests for workspace name: learning - uri: /home/kofta/dev/learning/3.py
