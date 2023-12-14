@@ -1,3 +1,3 @@
-2023/12/13-20:43:31.866 1125 Reusing MANIFEST /home/kofta/.config/Code/Local Storage/leveldb/MANIFEST-000001
-2023/12/13-20:43:31.866 1125 Recovering log #3
-2023/12/13-20:43:31.866 1125 Reusing old log /home/kofta/.config/Code/Local Storage/leveldb/000003.log 
+2023/12/13-21:25:06.974 ab5 Reusing MANIFEST /home/kofta/.config/Code/Local Storage/leveldb/MANIFEST-000001
+2023/12/13-21:25:06.975 ab5 Recovering log #3
+2023/12/13-21:25:06.975 ab5 Reusing old log /home/kofta/.config/Code/Local Storage/leveldb/000003.log 

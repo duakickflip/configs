@@ -37,6 +37,9 @@ magiclampEnabled=true
 slidebackEnabled=true
 wobblywindowsEnabled=true
 
+[TabBox]
+LayoutName=big_icons
+
 [Tiling]
 padding=4
 

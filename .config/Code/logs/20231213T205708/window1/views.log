@@ -10,3 +10,5 @@
 2023-12-13 20:57:09.662 [info] Added views:workbench.debug.welcome in workbench.view.debug
 2023-12-13 20:57:09.696 [info] Added views:workbench.panel.repl.view in workbench.panel.repl
 2023-12-13 20:57:13.997 [info] Added views:~remote.forwardedPorts in ~remote.forwardedPortsContainer
+2023-12-13 21:01:23.217 [info] Added views:workbench.views.extensions.installed,workbench.views.extensions.popular,extensions.recommendedList in workbench.view.extensions
+2023-12-13 21:01:23.223 [info] Removed views:workbench.views.extensions.popular from workbench.view.extensions

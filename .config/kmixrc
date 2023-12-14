@@ -25,6 +25,15 @@ Split=false
 [View.PulseAudio.Capture_Devices.1.default.PulseAudio::Capture_Devices:1.alsa_input.pci-0000_05_00.6.analog-stereo]
 Split=false
 
+[View.PulseAudio.Capture_Streams.1.default.PulseAudio::Capture_Streams:1.stream:0]
+Split=false
+
+[View.PulseAudio.Capture_Streams.1.default.PulseAudio::Capture_Streams:1.stream:10]
+Split=false
+
+[View.PulseAudio.Capture_Streams.1.default.PulseAudio::Capture_Streams:1.stream:2]
+Split=false
+
 [View.PulseAudio.Playback_Devices.1.default.PulseAudio::Playback_Devices:1.alsa_output.pci-0000_05_00.6.3.analog-stereo]
 Split=false
 
@@ -35,6 +44,9 @@ Split=false
 Split=false
 
 [View.PulseAudio.Playback_Devices.1.default.PulseAudio::Playback_Devices:1.bluez_output.6C_47_60_61_24_6C.1]
+Split=false
+
+[View.PulseAudio.Playback_Devices.1.default.PulseAudio::Playback_Devices:1.bluez_sink.6C_47_60_61_24_6C.a2dp_sink]
 Split=false
 
 [View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.restore:sink-input-by-media-role:event]

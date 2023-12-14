@@ -1,5 +1,19 @@
-2023/12/13-20:42:00.053 d43 Reusing MANIFEST /home/kofta/.config/discord/Local Storage/leveldb/MANIFEST-000001
-2023/12/13-20:42:00.054 d43 Recovering log #22
-2023/12/13-20:42:00.080 d43 Level-0 table #25: started
-2023/12/13-20:42:00.101 d43 Level-0 table #25: 2720471 bytes OK
-2023/12/13-20:42:00.105 d43 Delete type=0 #22
+2023/12/14-19:24:14.153 3ab0 Reusing MANIFEST /home/kofta/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/12/14-19:24:14.153 3ab0 Recovering log #26
+2023/12/14-19:24:14.175 3ab0 Level-0 table #28: started
+2023/12/14-19:24:14.189 3ab0 Level-0 table #28: 720942 bytes OK
+2023/12/14-19:24:14.193 3ab0 Delete type=0 #26
+2023/12/14-19:27:51.466 3b5a Level-0 table #31: started
+2023/12/14-19:27:51.487 3b5a Level-0 table #31: 2720336 bytes OK
+2023/12/14-19:27:51.491 3b5a Delete type=0 #29
+2023/12/14-19:27:51.491 3b5a Compacting 4@0 + 2@1 files
+2023/12/14-19:27:51.521 3b5a Generated table #32@0: 24 keys, 2718578 bytes
+2023/12/14-19:27:51.525 3b5a Generated table #33@0: 54 keys, 12555 bytes
+2023/12/14-19:27:51.525 3b5a Compacted 4@0 + 2@1 files => 2731133 bytes
+2023/12/14-19:27:51.528 3b5a compacted to: files[ 0 2 1 0 0 0 0 ]
+2023/12/14-19:27:51.528 3b5a Delete type=2 #28
+2023/12/14-19:27:51.528 3b5a Delete type=2 #21
+2023/12/14-19:27:51.528 3b5a Delete type=2 #20
+2023/12/14-19:27:51.528 3b5a Delete type=2 #23
+2023/12/14-19:27:51.528 3b5a Delete type=2 #31
+2023/12/14-19:27:51.528 3b5a Delete type=2 #25

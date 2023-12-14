@@ -8,12 +8,17 @@ count=0
 count=0
 
 [Session: saved at previous logout]
-clientId1=10dbd17074000170248603000000008050002
-count=1
-program1=firefox
-restartCommand1=/usr/lib/firefox/firefox,--sm-client-id,10dbd17074000170248603000000008050002
+clientId1=10dbd17074000170256767600000028580002
+clientId2=10dbd17074000170256771800000028580003
+count=2
+program1=pulseaudio
+program2=firefox
+restartCommand1=
+restartCommand2=/usr/lib/firefox/firefox,--sm-client-id,10dbd17074000170256771800000028580003
 restartStyleHint1=0
+restartStyleHint2=0
 userId1=kofta
+userId2=kofta
 
 [Session: saved by user]
 clientId1=10dbd17074000170232374000000007950002

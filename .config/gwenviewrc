@@ -5,34 +5,35 @@ update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBa
 LastUsedVersion=210800
 
 [MainWindow]
+1920x1080 screen: Window-Maximized=true
 1920x1080 screen: XPosition=640
 1920x1080 screen: YPosition=292
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAAAoAAAAG6AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPnAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 eDP=eDP
 
 [Recent Files]
-File1[$e]=$HOME/Desktop/360_F_585864419_kgIYUcDQ0yiLOCo1aRjeu7kRxndcoitz.jpg
-File10[$e]=$HOME/Desktop/images/4.jpg
-File2[$e]=$HOME/Desktop/Untitled.jpg
-File3[$e]=$HOME/Desktop/peremeshchenie_bolnogo_na_kresle_katalke.jpg
-File4[$e]=/run/media/kofta/FEE6-1692/af003_-medtehnika-1.ru_750x750.jpg
-File5[$e]=$HOME/Desktop/images/5.png
-File6[$e]=$HOME/Desktop/images/3.jpg
-File7[$e]=$HOME/Desktop/images/1.png
-File8[$e]=$HOME/Desktop/images/2.jpg
-File9[$e]=$HOME/Desktop/images/6.png
-Name1[$e]=360_F_585864419_kgIYUcDQ0yiLOCo1aRjeu7kRxndcoitz.jpg
-Name10[$e]=4.jpg
-Name2[$e]=Untitled.jpg
-Name3[$e]=peremeshchenie_bolnogo_na_kresle_katalke.jpg
-Name4[$e]=af003_-medtehnika-1.ru_750x750.jpg
-Name5[$e]=5.png
-Name6[$e]=3.jpg
-Name7[$e]=1.png
-Name8[$e]=2.jpg
-Name9[$e]=6.png
+File1[$e]=$HOME/Desktop/images/5.png
+File10[$e]=$HOME/Desktop/p1hhk81kag1j2fgl917ivd8f15j74-0.png
+File2[$e]=$HOME/Desktop/images/3.jpg
+File3[$e]=$HOME/Desktop/images/1.png
+File4[$e]=$HOME/Desktop/images/2.jpg
+File5[$e]=$HOME/Desktop/images/6.png
+File6[$e]=$HOME/Desktop/images/4.jpg
+File7[$e]=$HOME/Desktop/таблица альбомов-2.png
+File8[$e]=$HOME/Desktop/таблица альбомов-1.png
+File9[$e]=$HOME/Desktop/p1hhk81kag1j2fgl917ivd8f15j74-1.png
+Name1[$e]=5.png
+Name10[$e]=p1hhk81kag1j2fgl917ivd8f15j74-0.png
+Name2[$e]=3.jpg
+Name3[$e]=1.png
+Name4[$e]=2.jpg
+Name5[$e]=6.png
+Name6[$e]=4.jpg
+Name7[$e]=таблица альбомов-2.png
+Name8[$e]=таблица альбомов-1.png
+Name9[$e]=p1hhk81kag1j2fgl917ivd8f15j74-1.png
 
 [SideBar]
-InformationSplitterSizes=225,242
+InformationSplitterSizes=220,237

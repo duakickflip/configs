@@ -1,0 +1,121 @@
+2023-12-14 19:24:44.813 [info] Experiment 'pythonRecommendTensorboardExtcf' is active
+2023-12-14 19:24:44.813 [info] Experiment 'pythonREPLSmartSend' is active
+2023-12-14 19:24:44.813 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2023-12-14 19:24:44.813 [info] Experiment 'pythonTestAdapter' is active
+2023-12-14 19:24:44.813 [info] Default formatter is set to null for workspace /home/kofta/dev/learning
+2023-12-14 19:24:44.813 [info] Test server listening.
+2023-12-14 19:24:44.813 [info] Python interpreter path: /bin/python
+2023-12-14 19:24:44.881 [info] Send text to terminal: echo /usr/bin/zsh
+2023-12-14 19:24:45.560 [info] > conda info --json
+2023-12-14 19:24:46.858 [info] Starting Pylance language server.
+2023-12-14 19:24:47.882 [info] Shell integration is not working for zsh
+2023-12-14 19:24:47.882 [warning] Shell integration is not active, environment activated maybe overriden by the shell.
+2023-12-14 19:29:44.785 [info] Experiment 'pythonRecommendTensorboardExtcf' is active
+2023-12-14 19:29:44.786 [info] Experiment 'pythonREPLSmartSend' is active
+2023-12-14 19:29:44.786 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2023-12-14 19:29:44.786 [info] Experiment 'pythonTestAdapter' is active
+2023-12-14 19:29:44.786 [info] Default formatter is set to null for workspace /home/kofta/dev/homework
+2023-12-14 19:29:44.787 [info] Test server listening.
+2023-12-14 19:29:44.948 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-12-14 19:29:44.948 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-12-14 19:29:44.948 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-12-14 19:29:44.948 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-12-14 19:29:44.948 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-12-14 19:29:44.972 [info] > conda info --json
+2023-12-14 19:29:44.979 [info] Send text to terminal: echo /usr/bin/zsh
+2023-12-14 19:29:45.537 [info] Python interpreter path: /bin/python
+2023-12-14 19:29:46.638 [info] Starting Pylance language server.
+2023-12-14 19:29:47.980 [info] Shell integration is not working for zsh
+2023-12-14 19:29:47.981 [warning] Shell integration is not active, environment activated maybe overriden by the shell.
+2023-12-14 19:30:49.541 [info] Discover tests for workspace name: homework - uri: /home/kofta/dev/homework/main.py
+2023-12-14 19:31:40.413 [info] Discover tests for workspace name: homework - uri: /home/kofta/dev/homework/main.py
+2023-12-14 19:32:14.983 [info] Discover tests for workspace name: homework - uri: /home/kofta/dev/homework/main.py
+2023-12-14 19:32:48.056 [info] Discover tests for workspace name: homework - uri: /home/kofta/dev/homework/main.py
+2023-12-14 19:32:58.247 [info] CreateEnv Trigger - Skipping for /home/kofta/dev/homework/main.py
+2023-12-14 19:32:58.301 [info] Send text to terminal: /bin/python /home/kofta/dev/homework/main.py
+2023-12-14 19:34:09.800 [info] Discover tests for workspace name: homework - uri: /home/kofta/dev/homework/main.py
+2023-12-14 19:34:20.519 [info] Send text to terminal: /bin/python /home/kofta/dev/homework/main.py
+2023-12-14 19:34:46.237 [info] Discover tests for workspace name: homework - uri: /home/kofta/dev/homework/main.py
+2023-12-14 19:34:57.350 [info] Discover tests for workspace name: homework - uri: /home/kofta/dev/homework/main.py
+2023-12-14 19:35:12.908 [info] Discover tests for workspace name: homework - uri: /home/kofta/dev/homework/main.py
+2023-12-14 19:35:15.197 [info] Send text to terminal: /bin/python /home/kofta/dev/homework/main.py
+2023-12-14 19:35:24.609 [info] Send text to terminal: /bin/python /home/kofta/dev/homework/main.py
+2023-12-14 19:35:24.853 [info] Discover tests for workspace name: homework - uri: /home/kofta/dev/homework/main.py
+2023-12-14 19:37:44.657 [info] Discover tests for workspace name: homework - uri: /home/kofta/dev/homework/read_file.py
+2023-12-14 19:40:07.347 [info] Discover tests for workspace name: homework - uri: /home/kofta/dev/homework/read_file.py
+2023-12-14 19:40:21.102 [info] Discover tests for workspace name: homework - uri: /home/kofta/dev/homework/25.py
+2023-12-14 19:40:53.513 [info] Discover tests for workspace name: homework - uri: /home/kofta/dev/homework/25.py
+2023-12-14 19:41:05.894 [info] Discover tests for workspace name: homework - uri: /home/kofta/dev/homework/25.py
+2023-12-14 19:41:33.568 [info] Discover tests for workspace name: homework - uri: /home/kofta/dev/homework/25.py
+2023-12-14 19:41:35.096 [info] Send text to terminal: /bin/python /home/kofta/dev/homework/25.py
+2023-12-14 19:47:01.993 [info] Discover tests for workspace name: homework - uri: /home/kofta/dev/homework/template.py
+2023-12-14 19:48:52.049 [info] Discover tests for workspace name: homework - uri: /home/kofta/dev/homework/25.py
+2023-12-14 19:48:53.690 [info] Send text to terminal: /bin/python /home/kofta/dev/homework/25.py
+2023-12-14 19:53:14.518 [info] Discover tests for workspace name: homework - uri: /home/kofta/dev/homework/26.py
+2023-12-14 19:53:15.525 [info] Send text to terminal: /bin/python /home/kofta/dev/homework/26.py
+2023-12-14 19:53:28.126 [info] Send text to terminal: /bin/python /home/kofta/dev/homework/26.py
+2023-12-14 19:53:28.367 [info] Discover tests for workspace name: homework - uri: /home/kofta/dev/homework/26.py
+2023-12-14 19:53:47.417 [info] Discover tests for workspace name: homework - uri: /home/kofta/dev/homework/26.py
+2023-12-14 19:53:48.625 [info] Send text to terminal: /bin/python /home/kofta/dev/homework/26.py
+2023-12-14 19:53:55.670 [info] Discover tests for workspace name: homework - uri: /home/kofta/dev/homework/26.py
+2023-12-14 19:54:36.301 [info] Send text to terminal: /bin/python /home/kofta/dev/homework/26.py
+2023-12-14 19:54:36.544 [info] Discover tests for workspace name: homework - uri: /home/kofta/dev/homework/26.py
+2023-12-14 19:56:39.496 [info] Discover tests for workspace name: homework - uri: /home/kofta/dev/homework/27.py
+2023-12-14 19:56:45.280 [info] Discover tests for workspace name: homework - uri: /home/kofta/dev/homework/template.py
+2023-12-14 19:56:59.400 [info] Discover tests for workspace name: homework - uri: /home/kofta/dev/homework/27.py
+2023-12-14 19:57:39.747 [info] Discover tests for workspace name: homework - uri: /home/kofta/dev/homework/27.py
+2023-12-14 19:57:42.112 [info] Send text to terminal: /bin/python /home/kofta/dev/homework/27.py
+2023-12-14 19:58:53.714 [info] Discover tests for workspace name: homework - uri: /home/kofta/dev/homework/28.py
+2023-12-14 19:59:34.713 [info] Discover tests for workspace name: homework - uri: /home/kofta/dev/homework/28.py
+2023-12-14 19:59:37.855 [info] Send text to terminal: /bin/python /home/kofta/dev/homework/28.py
+2023-12-14 20:01:20.553 [info] Discover tests for workspace name: homework - uri: /home/kofta/dev/homework/29.py
+2023-12-14 20:03:10.673 [info] Discover tests for workspace name: homework - uri: /home/kofta/dev/homework/29.py
+2023-12-14 20:03:32.854 [info] Discover tests for workspace name: homework - uri: /home/kofta/dev/homework/29.py
+2023-12-14 20:03:34.167 [info] Send text to terminal: /bin/python /home/kofta/dev/homework/29.py
+2023-12-14 20:03:46.412 [info] Discover tests for workspace name: homework - uri: /home/kofta/dev/homework/29.py
+2023-12-14 20:03:51.185 [info] Send text to terminal: /bin/python /home/kofta/dev/homework/29.py
+2023-12-14 20:03:52.117 [info] Send text to terminal: /bin/python /home/kofta/dev/homework/29.py
+2023-12-14 20:04:03.502 [info] Discover tests for workspace name: homework - uri: /home/kofta/dev/homework/29.py
+2023-12-14 20:04:04.823 [info] Send text to terminal: /bin/python /home/kofta/dev/homework/29.py
+2023-12-14 20:04:07.930 [info] Discover tests for workspace name: homework - uri: /home/kofta/dev/homework/29.py
+2023-12-14 20:06:20.771 [info] Discover tests for workspace name: homework - uri: /home/kofta/dev/homework/30.py
+2023-12-14 20:07:31.962 [info] Discover tests for workspace name: homework - uri: /home/kofta/dev/homework/30.py
+2023-12-14 20:07:51.176 [info] Discover tests for workspace name: homework - uri: /home/kofta/dev/homework/30.py
+2023-12-14 20:07:52.213 [info] Send text to terminal: /bin/python /home/kofta/dev/homework/30.py
+2023-12-14 20:08:14.968 [info] Send text to terminal: /bin/python /home/kofta/dev/homework/30.py
+2023-12-14 20:08:15.213 [info] Discover tests for workspace name: homework - uri: /home/kofta/dev/homework/30.py
+2023-12-14 20:08:39.366 [info] Discover tests for workspace name: homework - uri: /home/kofta/dev/homework/30.py
+2023-12-14 20:09:27.100 [info] Discover tests for workspace name: homework - uri: /home/kofta/dev/homework/30.py
+2023-12-14 20:09:28.206 [info] Send text to terminal: /bin/python /home/kofta/dev/homework/30.py
+2023-12-14 20:09:42.849 [info] Discover tests for workspace name: homework - uri: /home/kofta/dev/homework/30.py
+2023-12-14 20:09:44.148 [info] Send text to terminal: /bin/python /home/kofta/dev/homework/30.py
+2023-12-14 20:10:29.942 [info] Discover tests for workspace name: homework - uri: /home/kofta/dev/homework/31.py
+2023-12-14 20:10:33.214 [info] Discover tests for workspace name: homework - uri: /home/kofta/dev/homework/31.py
+2023-12-14 20:10:58.715 [info] Discover tests for workspace name: homework - uri: /home/kofta/dev/homework/31.py
+2023-12-14 20:12:37.167 [info] Discover tests for workspace name: homework - uri: /home/kofta/dev/homework/31.py
+2023-12-14 20:13:06.715 [info] Discover tests for workspace name: homework - uri: /home/kofta/dev/homework/31.py
+2023-12-14 20:13:08.712 [info] Send text to terminal: /bin/python /home/kofta/dev/homework/31.py
+2023-12-14 20:14:26.976 [info] Discover tests for workspace name: homework - uri: /home/kofta/dev/homework/31.py
+2023-12-14 20:14:31.519 [info] Send text to terminal: /bin/python /home/kofta/dev/homework/31.py
+2023-12-14 20:14:32.393 [info] Send text to terminal: /bin/python /home/kofta/dev/homework/31.py
+2023-12-14 20:15:01.647 [info] Discover tests for workspace name: homework - uri: /home/kofta/dev/homework/32.py
+2023-12-14 20:15:52.635 [info] Discover tests for workspace name: homework - uri: /home/kofta/dev/homework/32.py
+2023-12-14 20:15:56.017 [info] Discover tests for workspace name: homework - uri: /home/kofta/dev/homework/32.py
+2023-12-14 20:16:55.258 [info] Discover tests for workspace name: homework - uri: /home/kofta/dev/homework/32.py
+2023-12-14 20:17:01.016 [info] Send text to terminal: /bin/python /home/kofta/dev/homework/32.py
+2023-12-14 20:20:49.968 [info] Discover tests for workspace name: homework - uri: /home/kofta/dev/homework/33.py
+2023-12-14 20:21:06.273 [info] Discover tests for workspace name: homework - uri: /home/kofta/dev/homework/33.py
+2023-12-14 20:21:07.319 [info] Send text to terminal: /bin/python /home/kofta/dev/homework/33.py
+2023-12-14 20:21:34.072 [info] Send text to terminal: /bin/python /home/kofta/dev/homework/33.py
+2023-12-14 20:21:34.319 [info] Discover tests for workspace name: homework - uri: /home/kofta/dev/homework/33.py
+2023-12-14 20:24:11.776 [info] Discover tests for workspace name: homework - uri: /home/kofta/dev/homework/34.py
+2023-12-14 20:24:19.217 [info] Discover tests for workspace name: homework - uri: /home/kofta/dev/homework/33.py
+2023-12-14 20:24:20.421 [info] Send text to terminal: /bin/python /home/kofta/dev/homework/33.py
+2023-12-14 20:25:23.825 [info] Discover tests for workspace name: homework - uri: /home/kofta/dev/homework/34.py
+2023-12-14 20:25:27.751 [info] Send text to terminal: /bin/python /home/kofta/dev/homework/34.py
+2023-12-14 20:26:11.703 [info] Discover tests for workspace name: homework - uri: /home/kofta/dev/homework/35.py
+2023-12-14 20:26:19.886 [info] Discover tests for workspace name: homework - uri: /home/kofta/dev/homework/35.py
+2023-12-14 20:26:25.008 [info] Discover tests for workspace name: homework - uri: /home/kofta/dev/homework/34.py
+2023-12-14 20:26:33.212 [info] Discover tests for workspace name: homework - uri: /home/kofta/dev/homework/33.py
+2023-12-14 20:27:06.347 [info] Discover tests for workspace name: homework - uri: /home/kofta/dev/homework/35.py
+2023-12-14 20:27:07.535 [info] Send text to terminal: /bin/python /home/kofta/dev/homework/35.py

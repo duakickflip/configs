@@ -1,6 +1,6 @@
 [KFileDialog Settings]
-Recent Files[$e]=plasma-monterey.layout.latte,file:$HOME/Downloads/Telegram Desktop/image_2023-12-11_18-06-03.png
-Recent URLs[$e]=file:$HOME/Downloads/,file:$HOME/,file:$HOME/Downloads/Telegram Desktop/
+Recent Files[$e]=plasma-monterey.layout.latte,file:$HOME/configs/plasma-monterey.layout.latte,file:$HOME/Downloads/Telegram Desktop/image_2023-12-11_18-06-03.png
+Recent URLs[$e]=file:$HOME/Downloads/,file:$HOME/,file:$HOME/Downloads/Telegram Desktop/,file:$HOME/configs/
 detailViewIconSize=16
 
 [LatteSettingsDialog]

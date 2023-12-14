@@ -1,0 +1,66 @@
+1702548846500	Sync.SyncScheduler	DEBUG	Next sync in 600000 ms. (why=schedule)
+1702548883195	Sync.Engine.Tabs.Tracker	DEBUG	Detected a tab change: scheduling a quick-write in 5000ms
+1702548884628	Sync.Engine.Tabs.Tracker	DEBUG	Detected a tab change, but a quick-write is already scheduled
+1702548884985	Sync.Engine.Tabs.Tracker	DEBUG	Detected a tab change, but a quick-write is already scheduled
+1702548885857	Sync.Engine.Tabs.Tracker	DEBUG	Detected a tab change, but a quick-write is already scheduled
+1702548888230	Sync.Engine.Tabs	INFO	Uploading 1 outgoing records
+1702548888231	Sync.Engine.Tabs	INFO	Posting 1 records of 1323 bytes with batch=true
+1702548888231	FirefoxAccounts	DEBUG	FxAccountsProfileClient: Requested profile
+1702548888231	FirefoxAccounts	DEBUG	getOAuthToken enter
+1702548888231	FirefoxAccounts	TRACE	getCachedToken returning cached token
+1702548888231	FirefoxAccounts	DEBUG	getOAuthToken returning a cached token
+1702548888232	Services.Common.RESTRequest	DEBUG	GET request to https://profile.accounts.firefox.com/v1/profile
+1702548888232	Sync.Collection	DEBUG	POST Length: 1323
+1702548888536	Sync.Collection	DEBUG	POST success 200 https://sync-1-us-west1-g.sync.services.mozilla.com/1.5/210363591/storage/tabs?batch=true&commit=true
+1702548888540	Sync.Telemetry	INFO	Observed notification weave:engine:sync:uploaded but no current sync is being recorded.
+1702548888717	Services.Common.RESTRequest	DEBUG	GET https://profile.accounts.firefox.com/v1/profile 304
+1702548889001	Sync.Engine.Tabs.Tracker	DEBUG	Detected a tab change: scheduling a quick-write in 5000ms
+1702548894017	Sync.Engine.Tabs	INFO	Uploading 1 outgoing records
+1702548894021	Sync.Engine.Tabs	INFO	Posting 1 records of 1323 bytes with batch=true
+1702548894021	FirefoxAccounts	TRACE	not checking freshness of profile as it remains recent
+1702548894022	Sync.Collection	DEBUG	POST Length: 1323
+1702548894506	Sync.Collection	DEBUG	POST success 200 https://sync-1-us-west1-g.sync.services.mozilla.com/1.5/210363591/storage/tabs?batch=true&commit=true
+1702548894510	Sync.Telemetry	INFO	Observed notification weave:engine:sync:uploaded but no current sync is being recorded.
+1702548898041	Sync.Engine.Tabs.Tracker	DEBUG	Detected a tab change: scheduling a quick-write in 5000ms
+1702548903210	Sync.Engine.Tabs	INFO	Uploading 1 outgoing records
+1702548903211	Sync.Engine.Tabs	INFO	Posting 1 records of 1303 bytes with batch=true
+1702548903212	FirefoxAccounts	TRACE	not checking freshness of profile as it remains recent
+1702548903212	Sync.Collection	DEBUG	POST Length: 1303
+1702548903577	Sync.Collection	DEBUG	POST success 200 https://sync-1-us-west1-g.sync.services.mozilla.com/1.5/210363591/storage/tabs?batch=true&commit=true
+1702548903583	Sync.Telemetry	INFO	Observed notification weave:engine:sync:uploaded but no current sync is being recorded.
+1702551586784	Sync.SyncScheduler	DEBUG	Network link status changed to "down". Offline?: false
+1702551586784	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1702551586787	Sync.SyncScheduler	DEBUG	Next sync in 600000 ms. (why=schedule)
+1702551586789	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1702551586942	Sync.SyncScheduler	DEBUG	Woke from sleep.
+1702551586943	Sync.SyncScheduler	DEBUG	Online, will sync in 2s.
+1702551586943	Sync.SyncScheduler	DEBUG	Next sync in 2000 ms. (why=wake_notification)
+1702551586943	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1702551588945	Sync.Service	DEBUG	User-Agent: Firefox/120.0.1 (Linux x86_64) FxSync/1.122.0.20231130105227.desktop
+1702551588945	Sync.Service	INFO	Starting sync at 2023-12-14 13:59:48 in browser session cplfqS2_WcrZ
+1702551588946	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1702551588949	Sync.Status	INFO	Resetting Status.
+1702551588949	Sync.Status	DEBUG	Status.service: success.status_ok => success.status_ok
+1702551588950	FirefoxAccounts	DEBUG	FxAccountsProfileClient: Requested profile
+1702551588950	FirefoxAccounts	DEBUG	getOAuthToken enter
+1702551588951	FirefoxAccounts	TRACE	getCachedToken returning cached token
+1702551588951	FirefoxAccounts	DEBUG	getOAuthToken returning a cached token
+1702551588951	Services.Common.RESTRequest	DEBUG	GET request to https://profile.accounts.firefox.com/v1/profile
+1702551593731	Sync.SyncScheduler	DEBUG	Network link status changed to "up". Offline?: false
+1702551593731	Sync.SyncScheduler	DEBUG	Network link looks up. Syncing.
+1702551593735	Sync.SyncScheduler	DEBUG	Next sync in 600000 ms. (why=schedule)
+1702551593737	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1702551593738	Sync.Service	DEBUG	User-Agent: Firefox/120.0.1 (Linux x86_64) FxSync/1.122.0.20231130105227.desktop
+1702551593738	Sync.Service	INFO	Starting sync at 2023-12-14 13:59:53 in browser session cplfqS2_WcrZ
+1702551593739	Sync.Service	DEBUG	Exception calling anonymous function: LockException: Could not acquire lock. Label: "service.js: sync".(resource://services-sync/util.sys.mjs:43:5) JS Stack trace: LockException@util.sys.mjs:43:5
+throwLockException@util.sys.mjs:127:11
+WrappedLock@util.sys.mjs:141:15
+_lockedSync@service.sys.mjs:1369:6
+sync/<@service.sys.mjs:1334:18
+WrappedCatch@util.sys.mjs:112:27
+sync@service.sys.mjs:1335:7
+1702551593739	Sync.Service	INFO	Cannot start sync: already syncing?
+1702551594921	Sync.Resource	WARN	GET request to https://sync-1-us-west1-g.sync.services.mozilla.com/1.5/210363591/info/collections failed: [Exception... "Abort"  nsresult: "0x80004004 (NS_ERROR_ABORT)"  location: "<unknown>"  data: no] No traceback available
+1702551594921	Sync.ErrorHandler	ERROR	Sync encountered an error: [Exception... "Abort"  nsresult: "0x80004004 (NS_ERROR_ABORT)"  location: "<unknown>"  data: no] No traceback available
+1702551594923	Sync.SyncScheduler	DEBUG	Next sync in 600000 ms. (why=reschedule)
+1702551594926	Sync.Service	DEBUG	Exception calling anonymous function: [Exception... "Abort"  nsresult: "0x80004004 (NS_ERROR_ABORT)"  location: "<unknown>"  data: no] No traceback available

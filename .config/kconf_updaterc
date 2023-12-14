@@ -26,7 +26,7 @@ done=DeleteCursorOldDefaultSize
 mtime=1701813121
 
 [disable_kmix.upd]
-ctime=1702152277
+ctime=1702530823
 done=PlasmaVolume_DisableKMixAutostart
 mtime=1701816651
 
@@ -61,7 +61,7 @@ done=Plasma_Fonts_Kate
 mtime=1701812982
 
 [gtkconfig.upd]
-ctime=1702152270
+ctime=1702530823
 done=gtk_theme,dont_use_gtk_css_for_window_decorations,remove_deprecated_gtk4_option
 mtime=1701815483
 

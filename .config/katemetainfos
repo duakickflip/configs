@@ -22,6 +22,18 @@ Mode Set By User=false
 Time=2023,12,13,13,39,18.744
 URL=file:///home/kofta/.mozilla/firefox/hqtjltm8.default-release/user.js
 
+[file:///home/kofta/Desktop/discord_backup_codes.txt]
+Bookmarks=
+Checksum=842284f658b1ca277451e152a298b40d929a013b
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,12,13,18,23,41.266
+URL=file:///home/kofta/Desktop/discord_backup_codes.txt
+
 [file:///home/kofta/Downloads/Layan/metadata.desktop]
 Bookmarks=
 Checksum=edefa9d22a9d252e7f3679daad1b53033acc5edd
@@ -33,3 +45,15 @@ Mode=.desktop
 Mode Set By User=false
 Time=2023,12,10,12,20,23.772
 URL=file:///home/kofta/Downloads/Layan/metadata.desktop
+
+[file:///usr/share/touchegg/touchegg.conf]
+Bookmarks=
+Checksum=20e01b69c31839159891a88099893fb1639f81c5
+Encoding=UTF-8
+Highlighting=TOML
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=TOML
+Mode Set By User=false
+Time=2023,12,14,14,14,47.429
+URL=file:///usr/share/touchegg/touchegg.conf

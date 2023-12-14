@@ -1,0 +1,152 @@
+2023-12-14 19:23:38.898 [info] Extension host with pid 14577 started
+2023-12-14 19:23:38.898 [info] Skipping acquiring lock for /home/kofta/.config/Code/User/workspaceStorage/44c79b072491839738e7a5bd4622013e.
+2023-12-14 19:23:39.035 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-12-14 19:23:39.157 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-12-14 19:23:39.195 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-12-14 19:23:39.309 [info] Eager extensions activated
+2023-12-14 19:23:39.378 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-12-14 19:23:39.380 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-12-14 19:23:39.388 [info] ExtensionService#_doActivateExtension LeonardSSH.vscord, startup: false, activationEvent: 'onStartupFinished'
+2023-12-14 19:23:39.407 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2023-12-14 19:23:39.721 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-12-14 19:23:41.110 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-12-14 19:23:41.129 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-12-14 19:23:41.156 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-12-14 19:24:42.824 [info] Extension host terminating: renderer closed the MessagePort
+2023-12-14 19:24:42.849 [error] Canceled: Canceled
+    at new g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:110274)
+    at l.U (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:10866)
+    at Proxy.P.<computed>.j.charCodeAt.P.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:8317)
+    at d.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:139555)
+    at d.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:138993)
+    at p.registerCommand.description (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:138317)
+    at d.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:140094)
+    at d.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:139086)
+    at d.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:138993)
+    at Object.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:21333)
+    at f.I [as value] (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:924696)
+    at n.y (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+    at n.z (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:80:1972)
+    at n.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:80:2188)
+    at Object.m [as dispose] (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:940613)
+    at /opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:945566
+    at Array.forEach (<anonymous>)
+    at p.dispose (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:945552)
+    at u.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:3620)
+    at u.dispose (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:3717)
+    at u.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:926708)
+    at u.dispose (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:3717)
+    at s (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+    at f.cb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:9873)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:7808
+    at Array.map (<anonymous>)
+    at f.Y (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:7795)
+    at f.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:8068)
+    at s.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:1513)
+    at a (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:171:9802)
+    at MessagePortMain.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:171:6227)
+    at MessagePortMain.emit (node:events:513:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2023-12-14 19:24:42.849 [error] Canceled: Canceled
+    at new g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:110274)
+    at l.U (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:10866)
+    at Proxy.P.<computed>.j.charCodeAt.P.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:8317)
+    at d.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:139555)
+    at d.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:138993)
+    at p.registerCommand.description (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:138317)
+    at d.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:140094)
+    at d.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:139086)
+    at d.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:138993)
+    at Object.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:21333)
+    at a.$D.set b [as b] (/opt/visual-studio-code/resources/app/extensions/github/dist/extension.js:2:322364)
+    at /opt/visual-studio-code/resources/app/extensions/github/dist/extension.js:2:323005
+    at f.value (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1016450)
+    at n.y (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+    at n.z (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:80:1972)
+    at n.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:80:2188)
+    at Object.m [as dispose] (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:940613)
+    at /opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:945566
+    at Array.forEach (<anonymous>)
+    at p.dispose (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:945552)
+    at u.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:3620)
+    at u.dispose (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:3717)
+    at u.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:926708)
+    at u.dispose (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:3717)
+    at s (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+    at f.cb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:9873)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:7808
+    at Array.map (<anonymous>)
+    at f.Y (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:7795)
+    at f.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:8068)
+    at s.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:1513)
+    at a (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:171:9802)
+    at MessagePortMain.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:171:6227)
+    at MessagePortMain.emit (node:events:513:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2023-12-14 19:24:42.853 [info] Extension host with pid 14577 exiting with code 0
+2023-12-14 19:24:43.936 [info] Extension host with pid 15469 started
+2023-12-14 19:24:43.936 [info] Skipping acquiring lock for /home/kofta/.config/Code/User/workspaceStorage/67c6c51005dcab4fb8d8a59b19aa23ca.
+2023-12-14 19:24:44.061 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-12-14 19:24:44.069 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2023-12-14 19:24:44.149 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+2023-12-14 19:24:44.605 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+2023-12-14 19:24:44.622 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2023-12-14 19:24:45.563 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-12-14 19:24:45.650 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-12-14 19:24:45.680 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-12-14 19:24:45.702 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-12-14 19:24:45.770 [info] Eager extensions activated
+2023-12-14 19:24:45.819 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-12-14 19:24:45.822 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-12-14 19:24:45.832 [info] ExtensionService#_doActivateExtension LeonardSSH.vscord, startup: false, activationEvent: 'onStartupFinished'
+2023-12-14 19:24:45.860 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2023-12-14 19:25:26.231 [info] Extension host terminating: renderer closed the MessagePort
+2023-12-14 19:25:26.270 [error] TypeError: e.clear is not a function
+    at _.cleanUp (/home/kofta/.vscode/extensions/ms-python.python-2023.22.0/out/client/extension.js:2:2396933)
+    at _.shutdown (/home/kofta/.vscode/extensions/ms-python.python-2023.22.0/out/client/extension.js:2:2396109)
+    at _.stop (/home/kofta/.vscode/extensions/ms-python.python-2023.22.0/out/client/extension.js:2:2395537)
+    at _.stop (/home/kofta/.vscode/extensions/ms-python.python-2023.22.0/out/client/extension.js:2:2561925)
+    at Object.stop (/home/kofta/.vscode/extensions/ms-python.python-2023.22.0/out/client/extension.js:2:52774)
+    at Object.stop (/home/kofta/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:167421)
+    at _0x245439.<computed>._stopClient (/home/kofta/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:110729)
+    at _0x245439.<computed>._createNewRequest (/home/kofta/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:110308)
+2023-12-14 19:25:26.270 [error] TypeError: e.clear is not a function
+    at _.cleanUp (/home/kofta/.vscode/extensions/ms-python.python-2023.22.0/out/client/extension.js:2:2396933)
+    at _.shutdown (/home/kofta/.vscode/extensions/ms-python.python-2023.22.0/out/client/extension.js:2:2396109)
+    at _.stop (/home/kofta/.vscode/extensions/ms-python.python-2023.22.0/out/client/extension.js:2:2395537)
+    at _.stop (/home/kofta/.vscode/extensions/ms-python.python-2023.22.0/out/client/extension.js:2:2561925)
+    at Object.stop (/home/kofta/.vscode/extensions/ms-python.python-2023.22.0/out/client/extension.js:2:52774)
+    at Object.stop (/home/kofta/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:167421)
+    at _0x245439.<computed>._stopClient (/home/kofta/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:110729)
+    at _0x245439.<computed>._createNewRequest (/home/kofta/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:110308)
+2023-12-14 19:25:26.272 [info] Extension host with pid 15469 exiting with code 0
+2023-12-14 19:25:27.244 [info] Extension host with pid 15987 started
+2023-12-14 19:25:27.245 [info] Skipping acquiring lock for /home/kofta/.config/Code/User/workspaceStorage/e8b4967d8def7f61b230d39fb7c34db8.
+2023-12-14 19:25:27.335 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-12-14 19:25:27.433 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-12-14 19:25:27.456 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-12-14 19:25:27.518 [info] Eager extensions activated
+2023-12-14 19:25:27.610 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-12-14 19:25:27.612 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-12-14 19:25:27.620 [info] ExtensionService#_doActivateExtension LeonardSSH.vscord, startup: false, activationEvent: 'onStartupFinished'
+2023-12-14 19:25:27.636 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2023-12-14 19:25:27.768 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-12-14 19:28:40.766 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2023-12-14 19:28:40.776 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2023-12-14 19:28:40.833 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-12-14 19:28:41.261 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2023-12-14 19:28:45.381 [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'onLanguage:c'
+2023-12-14 19:29:44.165 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2023-12-14 19:29:44.274 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+2023-12-14 19:29:44.704 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+2023-12-14 19:29:44.794 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2023-12-14 20:09:25.643 [error] [ms-python.python] provider FAILED
+2023-12-14 20:09:25.645 [error] TypeError: Cannot read properties of undefined (reading 'data')
+    at /home/kofta/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:133067
+    at _0x9ba18e (/home/kofta/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:144828)
+    at ve.provideCompletionItems (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:143:53055)
+2023-12-14 20:23:20.933 [error] [ms-python.python] provider FAILED
+2023-12-14 20:23:20.934 [error] TypeError: Cannot read properties of undefined (reading 'data')
+    at /home/kofta/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:133067
+    at _0x9ba18e (/home/kofta/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:144828)
+    at ve.provideCompletionItems (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:143:53055)

@@ -5,6 +5,10 @@
 [PlasmaTransientsConfig]
 PreloadWeight=0
 
+[PlasmaTransientsConfig][ConfigDialog]
+DialogHeight=78
+DialogWidth=1920
+
 [PlasmaViews][Panel 116][Defaults]
 offset=0
 thickness=32
@@ -43,6 +47,9 @@ thickness=32
 [PlasmaViews][Panel 29][Defaults]
 offset=0
 thickness=32
+
+[PlasmaViews][Panel 306][Defaults]
+thickness=44
 
 [PlasmaViews][Panel 58][Defaults]
 offset=0

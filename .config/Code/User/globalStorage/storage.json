@@ -3,8 +3,9 @@
     "profileAssociations": {
         "workspaces": {
             "file:///home/kofta/dev/rust-learning": "__default__profile__",
+            "file:///home/kofta/configs": "__default__profile__",
             "file:///home/kofta/dev/learning": "__default__profile__",
-            "file:///home/kofta/configs": "__default__profile__"
+            "file:///home/kofta/dev/homework": "__default__profile__"
         },
         "emptyWindows": {}
     },
@@ -16,6 +17,12 @@
         "folders": [
             {
                 "folderUri": "file:///home/kofta/configs"
+            },
+            {
+                "folderUri": "file:///home/kofta/dev/learning"
+            },
+            {
+                "folderUri": "file:///home/kofta/dev/homework"
             }
         ],
         "emptyWindows": []
@@ -58,8 +65,7 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor",
-                                    "enabled": false
+                                    "label": "&&Reopen Closed Editor"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -68,12 +74,12 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/kofta/configs",
-                                        "path": "/home/kofta/configs",
+                                        "external": "file:///home/kofta/dev/homework",
+                                        "path": "/home/kofta/dev/homework",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/configs"
+                                    "label": "~/dev/homework"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -85,6 +91,17 @@
                                     },
                                     "enabled": true,
                                     "label": "~/dev/learning"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/kofta/configs",
+                                        "path": "/home/kofta/configs",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/configs"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -724,6 +741,13 @@
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
+                                    "id": "workbench.action.splitEditorInGroup",
+                                    "label": "Split in &&Group"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
                                     "id": "workbench.action.moveEditorToNewWindow",
                                     "label": "&&Move Editor into New Window"
                                 },
@@ -800,6 +824,10 @@
                         "label": "E&&xtensions"
                     },
                     {
+                        "id": "workbench.view.extension.test",
+                        "label": "T&&esting"
+                    },
+                    {
                         "id": "vscode.menubar.separator"
                     },
                     {
@@ -823,8 +851,7 @@
                     },
                     {
                         "id": "editor.action.toggleWordWrap",
-                        "label": "&&Word Wrap",
-                        "enabled": false
+                        "label": "&&Word Wrap"
                     }
                 ]
             },
@@ -832,8 +859,7 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back",
-                        "enabled": false
+                        "label": "&&Back"
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -842,8 +868,7 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location",
-                        "enabled": false
+                        "label": "&&Last Edit Location"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1507,6 +1532,11 @@
                 "isNative": false,
                 "userSettingsLabel": "ctrl+k ctrl+\\"
             },
+            "workbench.action.splitEditorInGroup": {
+                "label": "Ctrl+K Ctrl+Shift+\\",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+k ctrl+shift+\\"
+            },
             "workbench.action.toggleEditorGroupLayout": {
                 "label": "Shift+Alt+0",
                 "userSettingsLabel": "shift+alt+0"
@@ -1753,8 +1783,8 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/kofta/configs",
-            "backupPath": "/home/kofta/.config/Code/Backups/08be0a8d631623fecdbb0389d69bf765",
+            "folder": "file:///home/kofta/dev/homework",
+            "backupPath": "/home/kofta/.config/Code/Backups/b00a503606b06309cc28a5a9ead1d164",
             "uiState": {
                 "mode": 0,
                 "x": 16,

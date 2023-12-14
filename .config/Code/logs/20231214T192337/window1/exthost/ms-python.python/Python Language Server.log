@@ -1,0 +1,29 @@
+2023-12-14 19:24:46.830 [info] [Info  - 7:24:46 PM] (15696) Pylance language server 2023.11.10 (pyright 088ebaa5) starting
+2023-12-14 19:24:46.831 [info] [Info  - 7:24:46 PM] (15696) Server root directory: /home/kofta/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist
+2023-12-14 19:24:46.842 [info] [Info  - 7:24:46 PM] (15696) Starting service instance "learning"
+2023-12-14 19:24:46.885 [info] [Info  - 7:24:46 PM] (15696) Setting pythonPath for service "learning": "/bin/python"
+2023-12-14 19:24:46.886 [info] [Info  - 7:24:46 PM] (15696) Setting environmentName for service "learning": "3.11.6 (global)"
+2023-12-14 19:24:46.948 [info] [Info  - 7:24:46 PM] (15696) Assuming Python version 3.11
+2023-12-14 19:24:47.043 [info] [Info  - 7:24:47 PM] (15696) Found 4 source files
+2023-12-14 19:29:46.614 [info] [Info  - 7:29:46 PM] (18048) Pylance language server 2023.11.10 (pyright 088ebaa5) starting
+2023-12-14 19:29:46.615 [info] [Info  - 7:29:46 PM] (18048) Server root directory: /home/kofta/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist
+2023-12-14 19:29:46.622 [info] [Info  - 7:29:46 PM] (18048) Starting service instance "homework"
+2023-12-14 19:29:46.656 [info] [Info  - 7:29:46 PM] (18048) Setting pythonPath for service "homework": "/bin/python"
+2023-12-14 19:29:46.656 [info] [Info  - 7:29:46 PM] (18048) Setting environmentName for service "homework": "3.11.6 (global)"
+2023-12-14 19:29:46.702 [info] [Info  - 7:29:46 PM] (18048) Assuming Python version 3.11
+2023-12-14 19:29:46.757 [info] [Info  - 7:29:46 PM] (18048) Found 1 source file
+2023-12-14 19:37:34.224 [info] [Info  - 7:37:34 PM] (18048) Found 1 source file
+2023-12-14 19:39:52.987 [info] [Info  - 7:39:52 PM] (18048) Found 2 source files
+2023-12-14 19:40:11.852 [info] [Info  - 7:40:11 PM] (18048) Found 1 source file
+2023-12-14 19:45:39.565 [info] [Info  - 7:45:39 PM] (18048) Found 2 source files
+2023-12-14 19:49:34.821 [info] [Info  - 7:49:34 PM] (18048) Found 3 source files
+2023-12-14 19:55:27.261 [info] [Info  - 7:55:27 PM] (18048) Found 4 source files
+2023-12-14 19:57:57.869 [info] [Info  - 7:57:57 PM] (18048) Found 5 source files
+2023-12-14 19:59:46.653 [info] [Info  - 7:59:46 PM] (18048) Found 6 source files
+2023-12-14 20:03:41.698 [info] [Info  - 8:03:41 PM] (18048) Found 7 source files
+2023-12-14 20:10:19.654 [info] [Info  - 8:10:19 PM] (18048) Found 8 source files
+2023-12-14 20:14:43.234 [info] [Info  - 8:14:43 PM] (18048) Found 9 source files
+2023-12-14 20:17:13.197 [info] [Info  - 8:17:13 PM] (18048) Found 10 source files
+2023-12-14 20:22:25.924 [info] [Info  - 8:22:25 PM] (18048) Found 11 source files
+2023-12-14 20:25:37.243 [info] [Info  - 8:25:37 PM] (18048) Found 12 source files
+2023-12-14 20:28:12.928 [info] [Info  - 8:28:12 PM] (18048) Found 11 source files
